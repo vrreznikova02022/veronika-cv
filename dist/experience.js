@@ -23,9 +23,9 @@
  };
  window.experienceDurationMarkup=index=>{
   const value=window.employmentDuration(index,window.cvLocale);
-  return `<div class="experience-duration" data-experience-duration="${index}" data-no-translate title="${value.title}">(${value.text})</div>`;
+  return `<div class="experience-duration" data-experience-duration="${index}" data-no-translate title="${value.title}">(${value.text.replace(/(\d+) /g,'$1\u00a0')})</div>`;
  };
- const refresh=()=>document.querySelectorAll('[data-experience-duration]').forEach(el=>{const v=window.employmentDuration(Number(el.dataset.experienceDuration),window.cvLocale);el.textContent=`(${v.text})`;el.title=v.title});
+ const refresh=()=>document.querySelectorAll('[data-experience-duration]').forEach(el=>{const v=window.employmentDuration(Number(el.dataset.experienceDuration),window.cvLocale);el.textContent=`(${v.text.replace(/(\d+) /g,'$1\u00a0')})`;el.title=v.title});
  setInterval(refresh,60000);
  document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh()});
  document.addEventListener('cv-language-change',refresh);
