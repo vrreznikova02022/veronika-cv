@@ -24,3 +24,6 @@ const CV = {
     {title:'Laleli Flowers',url:'https://laleliflowers.ru/',description:'VamShop · Исследование, прототипы, дизайн и адаптивные макеты'}
   ]
 };
+
+// Original images read from the user-selected Figma node via Desktop Bridge.
+CV.visuals=Array.from({length:17},(_,i)=>({id:i,title:`Визуал ${String(i+1).padStart(2,'0')}`,src:`assets/visuals/visual-${String(i+1).padStart(2,'0')}.jpg`}));

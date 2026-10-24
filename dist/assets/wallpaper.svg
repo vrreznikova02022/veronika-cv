@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1200" preserveAspectRatio="xMidYMid slice">
+ <defs>
+  <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070724"/><stop offset=".48" stop-color="#312074"/><stop offset="1" stop-color="#110e36"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="1" x2=".8" y2="0"><stop stop-color="#580db6"/><stop offset=".38" stop-color="#d5219a"/><stop offset=".7" stop-color="#ff567b"/><stop offset="1" stop-color="#ffad87"/></linearGradient>
+  <linearGradient id="blue" x1=".1" y1=".1" x2=".9" y2="1"><stop stop-color="#0a105f"/><stop offset=".35" stop-color="#2b55f0"/><stop offset=".68" stop-color="#4c8fff"/><stop offset="1" stop-color="#7de2ef"/></linearGradient>
+  <linearGradient id="silver" x1=".3" y1="0" x2=".7" y2="1"><stop stop-color="#f9ebff"/><stop offset=".3" stop-color="#c7c8f6"/><stop offset=".65" stop-color="#7f8dd8"/><stop offset="1" stop-color="#27346d"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffbe7f"/><stop offset=".45" stop-color="#fe66d6"/><stop offset="1" stop-color="#618cff"/></linearGradient>
+ </defs>
+ <path fill="url(#night)" d="M0 0h1920v1200H0z"/>
+ <path fill="url(#pink)" d="M-100-180C180-230 720 40 940 330S1020 790 680 1200H-100Z"/>
+ <path fill="url(#night)" d="M300-120C740-20 995 190 1160 515S1220 980 1030 1280h1070V-120Z"/>
+ <path fill="url(#blue)" d="M1920 50C1560 130 1510 430 1410 650S1110 1000 940 1200h980Z"/>
+ <path fill="url(#silver)" d="M-150 1160C140 770 420 520 690 630S950 1000 1050 1260H-150Z"/>
+ <path d="M-60-90C440-20 930 200 1080 580S1050 1070 900 1290" stroke="url(#edge)" stroke-width="7" fill="none"/>
+ <path d="M-60-90C440-20 930 200 1080 580S1050 1070 900 1290" stroke="#ffe9c8" stroke-opacity=".75" stroke-width="1.7" fill="none"/>
+ <path d="M1940 35C1560 130 1510 430 1410 650S1110 1000 940 1200" stroke="#b1d7ff" stroke-opacity=".85" stroke-width="2" fill="none"/>
+</svg>
