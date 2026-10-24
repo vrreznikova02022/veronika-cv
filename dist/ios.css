@@ -41,3 +41,4 @@ body{background:#201a51}.wallpaper{background:#201a51 url('assets/wallpaper.svg?
 .sidebar .profile-mini{padding-bottom:12px}.sidebar .sidebar-foot{margin:0 10px 22px;padding:0;flex-shrink:0;line-height:1.55}.sidebar-foot small{margin-top:5px}.experience-duration{font-size:12px;color:#70758b;font-variant-numeric:tabular-nums;margin:-3px 0 12px;line-height:1.5}.portrait-wrap small{white-space:nowrap}
 button:focus-visible,a:focus-visible,input:focus-visible{outline-color:#6570c4}
 @media(max-width:640px){.sidebar .profile-mini{padding-bottom:14px}.sidebar .sidebar-foot{margin:0 10px 24px}.experience-duration{font-size:12px;margin-top:-4px}}
+.profile-specialization{font-size:11px;line-height:1.55;color:var(--muted);margin:0 10px 12px}
