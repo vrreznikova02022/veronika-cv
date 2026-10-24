@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#cbd6cd">
+  <meta name="description" content="Вероника Резникова — веб-дизайнер и арт-директор. 7+ лет в дизайне, 130+ проектов. Опыт, избранные работы и контакты на одном рабочем столе.">
+  <title>Вероника Резникова — дизайнер интерфейсов</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#content">Перейти к содержимому</a>
+  <header class="menubar">
+    <button class="wordmark" data-view="about" aria-label="На главную">vr<span>®</span></button>
+    <strong>Вероника Резникова</strong>
+    <nav aria-label="Быстрая навигация"><button data-view="projects">Портфолио</button><button data-view="experience">Резюме</button><button data-view="contacts">Контакты</button></nav>
+    <span class="menu-right"><span class="location">Минск · UTC+3</span><svg width="18" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M2 8a16 16 0 0 1 20 0M5 12a11 11 0 0 1 14 0M9 16a5 5 0 0 1 6 0"/><circle cx="12" cy="20" r="1" fill="currentColor"/></svg><time id="clock"></time></span>
+  </header>
+  <div class="wallpaper" aria-hidden="true"><span>Design is my<br><em>natural habitat.</em></span></div>
+  <main class="desktop">
+    <div class="desktop-files" aria-label="Файлы рабочего стола">
+      <button data-view="projects" class="desktop-file"><span class="folder-icon"><svg viewBox="0 0 60 48" aria-hidden="true"><path d="M2 10Q2 5 7 5H23L29 11H53Q58 11 58 16V40Q58 45 53 45H7Q2 45 2 40Z"/><path d="M2 17H58V40Q58 45 53 45H7Q2 45 2 40Z"/></svg></span><span>Мои проекты</span></button>
+      <a class="desktop-file" href="cv.html" target="_blank" rel="noopener"><span class="paper-icon"><span>CV</span><i></i><i></i><i></i></span><span>Резюме</span></a>
+    </div>
+    <section class="finder" id="finder" aria-label="Резюме Вероники">
+      <div class="windowbar" id="windowbar">
+        <div class="traffic"><button class="red" id="close-window" aria-label="Закрыть окно"></button><button class="yellow" id="minimize-window" aria-label="Свернуть окно"></button><button class="green" id="maximize-window" aria-label="Развернуть окно"></button></div>
+        <div class="window-navigation"><button id="go-back" aria-label="Предыдущий раздел" disabled>‹</button><button id="go-forward" aria-label="Следующий раздел" disabled>›</button></div>
+        <span id="window-title">Обо мне</span><span class="window-subtitle">veronika.design</span>
+        <button class="mobile-menu" id="menu-toggle" aria-expanded="false" aria-controls="sidebar" aria-label="Открыть разделы"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+        <button class="window-action" data-view="contacts" aria-label="Открыть контакты"><svg viewBox="0 0 24 24"><path d="M12 15V3m-4 4 4-4 4 4M6 10H4v11h16V10h-2"/></svg></button>
+      </div>
+      <div class="windowbody">
+        <aside class="sidebar" id="sidebar">
+          <button class="profile-mini" data-view="about"><img src="assets/portrait.jpg" alt="" width="40" height="40"><span><b>Вероника</b><small>Веб-дизайнер</small></span></button>
+          <span class="nav-caption">Мой рабочий стол</span>
+          <nav id="main-nav" aria-label="Разделы резюме"></nav>
+          <span class="nav-caption links-caption">В интернете</span>
+          <div class="social-nav"><a href="https://www.behance.net/vrreznikova" target="_blank" rel="noopener"><span class="social-letter">Bē</span>Behance<span>↗</span></a><a href="https://dprofile.ru/webvvv" target="_blank" rel="noopener"><span class="social-letter">dp</span>Dprofile<span>↗</span></a><a href="https://dribbble.com/vr_reznikova" target="_blank" rel="noopener"><span class="social-letter">dr</span>Dribbble<span>↗</span></a></div>
+          <div class="sidebar-foot"><span class="status-dot"></span><span>Открыта к сотрудничеству</span><small>Проектно · В команду</small></div>
+        </aside>
+        <div class="content" id="content" tabindex="-1"></div>
+      </div>
+      <footer class="statusbar"><span id="status-path">Рабочий стол / Обо мне</span><span>Сделано с вниманием к деталям <span class="tiny-spark" aria-hidden="true">↗</span></span></footer>
+    </section>
+    <div class="minimized-message" id="minimized-message" hidden><p>Всё начинается со знакомства.</p><button data-view="about">Открыть резюме ↗</button></div>
+    <div class="desktop-note"><span>Рада видеть вас на моём<br>маленьком рабочем столе.</span><svg viewBox="0 0 100 50" fill="none"><path d="M4 8C29 45 56 46 88 15m-18 1 20-4-4 20" stroke="currentColor" stroke-width="1.5"/></svg></div>
+    <nav class="dock" aria-label="Док"></nav>
+  </main>
+  <div class="case-layer" id="case-layer" hidden></div>
+  <div class="image-layer" id="image-layer" hidden></div>
+  <div class="toast" id="toast" role="status" hidden></div>
+  <noscript><div class="noscript"><h1>Вероника Резникова — веб-дизайнер и арт-директор</h1><p>7+ лет в дизайне, 130+ проектов. Сайты, интерфейсы и презентации.</p><a href="cv.html">Открыть текстовое резюме</a><a href="mailto:vr.reznikova02022@gmail.com">Написать на почту</a></div></noscript>
+  <script src="data.js"></script><script src="app.js"></script>
+</body>
+</html>
