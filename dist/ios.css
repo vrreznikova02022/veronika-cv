@@ -1,7 +1,7 @@
 /* The user's macOS / iOS references intentionally add vivid colour,
    dimensional app icons, gradients and translucent floating surfaces. */
 :root{--ground:#201a51;--paper:#fff;--surface:#f5f5fa;--ink:#252631;--muted:#626371;--accent:#1669ed;--line:#e7e7ee;--active:#e6e9f4}
-body{background:#201a51}.wallpaper{background:#201a51 url('assets/wallpaper.svg') center/cover no-repeat}.wallpaper:before,.wallpaper:after{display:none}
+body{background:#201a51}.wallpaper{background:#201a51 url('assets/wallpaper.svg?v=3') center/cover no-repeat}.wallpaper:before,.wallpaper:after{display:none}
 .menubar{background:#14102a4f;backdrop-filter:blur(24px) saturate(160%);border-bottom:1px solid #ffffff1c;color:#fff}.wordmark{color:white}.menubar nav button:hover{color:#b9d8ff}.menubar .menu-right{color:#ffffffe0}
 .finder{border-color:#ffffffa8;background:#fffffffa;box-shadow:0 28px 90px #080b3559,0 2px 7px #070b3026;isolation:isolate}.windowbar{background:#fbfbffe8;backdrop-filter:blur(25px) saturate(160%);border-bottom-color:#e5e6ee}.windowbody{background:#ffffffed}.window-subtitle{color:#676775}.window-navigation button{color:#6e6e7b}.window-action{color:#585b6e}
 .traffic .red{background:#ff5e57;border-color:#e24d46}.traffic .yellow{background:#febc2e;border-color:#e5a925}.traffic .green{background:#28c840;border-color:#21ae36}.traffic button{box-shadow:inset 0 1px 2px #ffffff70,0 1px 2px #0000001a}
@@ -24,3 +24,15 @@ body{background:#201a51}.wallpaper{background:#201a51 url('assets/wallpaper.svg'
 @media(max-width:640px){#main-nav button{height:44px}.links-caption{margin-top:22px}.social-nav a{width:44px;height:36px}.social-nav .social-letter{font-size:14px}.sidebar-foot{margin-top:24px}}
 .social-nav a{font-size:11px}.visual-card small{color:#6d7083}.file-count{color:#6a7083}.primary{background:#126be3}
 .mini-work .mini-link{color:#205fb7}
+/* Crisp vector artwork and symmetric dock geometry on every breakpoint. */
+.dock{--dock-size:48px;left:50%;right:auto;transform:translateX(-50%);width:max-content;max-width:calc(100% - 24px);gap:8px;padding:10px 12px 15px;justify-content:center;align-items:center}
+.dock button,.dock button:nth-child(1),.dock button:last-child{display:flex;align-items:center;justify-content:center;flex:0 0 var(--dock-size);width:var(--dock-size);height:var(--dock-size);min-width:var(--dock-size);padding:0;line-height:0;border:0;background:none;box-shadow:none;position:relative}
+.dock button .app-icon{width:var(--dock-size);height:var(--dock-size);max-width:none;flex:0 0 var(--dock-size);filter:none;box-shadow:none;transform:none;transition:none}
+.dock button:hover{transform:translateY(-3px)}.dock button:hover .app-icon{transform:none}.dock button.active:after{left:50%;transform:translateX(-50%);bottom:-9px}.dock .dock-label{left:50%;right:auto;transform:translateX(-50%);line-height:1.4}.dock .dock-divider{flex:0 0 1px;width:1px;margin:0 4px}
+#main-nav button .app-icon,.desktop-app-icon{filter:none}.about-hero h1 span,.contact-hero h1 span{color:#ad3c69!important}.primary{background:#c83a2f}.primary:hover{background:#b42d26}.text-button{color:#8b4567;border-color:#d0b2c2}#main-nav button.active{background:#e9dde8;color:#633951}.menubar{background:#170a2080}.mini-work .mini-link{color:#80416a}
+.language-switch{display:flex;align-items:center;gap:2px;padding:2px;background:#ffffff15;border:1px solid #ffffff24;border-radius:6px;flex-shrink:0}.language-switch button{font-size:11px;font-weight:600;line-height:1.2;padding:5px 7px;min-width:29px;color:#ffffffb8;border-radius:4px}.language-switch button.selected{color:#352539;background:#fffffff0;box-shadow:0 1px 2px #0002}.language-switch button:hover:not(.selected){background:#ffffff16;color:white}.menu-right{gap:14px}.quicklook-stage{padding:18px}.image-layer .quicklook-stage img{image-rendering:auto}.desktop-note{display:none}
+@media(max-width:640px){.dock{--dock-size:40px;gap:6px;padding:8px 10px 13px;bottom:max(8px,env(safe-area-inset-bottom))}.dock button:hover{transform:none}.dock .dock-divider{display:none}.dock button.active:after{bottom:-8px}.dock .dock-label{bottom:55px}.menubar{gap:10px;padding:0 13px}.menu-right{gap:10px}.language-switch{padding:1px}.language-switch button{font-size:10px;min-width:26px;padding:4px 5px}.menubar strong{font-size:11px}.about-hero h1 span{color:#ad3c69!important}}
+@media(max-width:379px){.dock{--dock-size:36px;gap:6px}.menu-right time{display:none}}
+@media(max-width:340px){.dock{--dock-size:32px;gap:5px}}
+
+@media(max-width:640px){.menubar{padding-left:16px;padding-right:16px}}

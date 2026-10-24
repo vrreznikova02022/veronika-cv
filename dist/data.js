@@ -26,4 +26,4 @@ const CV = {
 };
 
 // Original images read from the user-selected Figma node via Desktop Bridge.
-CV.visuals=Array.from({length:17},(_,i)=>({id:i,title:`Визуал ${String(i+1).padStart(2,'0')}`,src:`assets/visuals/visual-${String(i+1).padStart(2,'0')}.jpg`}));
+CV.visuals=Array.from({length:17},(_,i)=>({thumb:`assets/visuals/thumbs/visual-${String(i+1).padStart(2,'0')}.webp`,id:i,title:`Визуал ${String(i+1).padStart(2,'0')}`,src:`assets/visuals/visual-${String(i+1).padStart(2,'0')}.jpg?v=3`}));

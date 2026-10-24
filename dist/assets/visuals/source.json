@@ -121,5 +121,126 @@
       "width": 370,
       "height": 445
     }
+  ],
+  "renderSources": [
+    {
+      "file": "visual-01.jpg",
+      "figmaNodeId": "640:4030",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-02.jpg",
+      "figmaNodeId": "640:4132",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-03.jpg",
+      "figmaNodeId": "640:4152",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-04.jpg",
+      "figmaNodeId": "640:4382",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-05.jpg",
+      "figmaNodeId": "640:4383",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-06.jpg",
+      "figmaNodeId": "640:4414",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-07.jpg",
+      "figmaNodeId": "666:9243",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-08.jpg",
+      "figmaNodeId": "640:4415",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-09.jpg",
+      "figmaNodeId": "640:4418",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-10.jpg",
+      "figmaNodeId": "640:4417",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-11.jpg",
+      "figmaNodeId": "643:6788",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-12.jpg",
+      "figmaNodeId": "640:4416",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-13.jpg",
+      "figmaNodeId": "640:4419",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-14.jpg",
+      "figmaNodeId": "643:6785",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-15.jpg",
+      "figmaNodeId": "643:6789",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-16.jpg",
+      "figmaNodeId": "643:6786",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    },
+    {
+      "file": "visual-17.jpg",
+      "figmaNodeId": "666:9157",
+      "width": 1480,
+      "height": 1780,
+      "scale": 4
+    }
   ]
 }
