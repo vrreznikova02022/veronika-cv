@@ -1,6 +1,6 @@
 window.CV_RU=structuredClone(CV);
 const translations={
- 'Вероника Резникова':'Veronika Reznikova','Вероника':'Veronika','Резникова.':'Reznikova.','Веб-дизайнер':'Web designer',
+ 'Вероника Резникова':'Veronika Reznikova','Вероника':'Veronika','Резникова':'Reznikova','Веб-дизайнер':'Web designer',
  'Обо мне':'About me','Проекты':'Projects','Визуалы':'Visuals','Опыт работы':'Experience','Навыки и AI':'Skills & AI','Контакты':'Contact','Портфолио':'Portfolio','Резюме':'CV',
  'Привет, я':'Hi, I’m','Веб-дизайнер и арт-директор.':'Web designer and art director.',
  'Создаю сайты и интерфейсы с вниманием к опыту и эстетике.':'I design websites and interfaces with care for experience and aesthetics.',
@@ -20,10 +20,10 @@ const translations={
  'Создаю дизайн':'Interface design','Сайты, сервисы, мобильные приложения и презентации. Адаптивные интерфейсы, UI-компоненты и дизайн-системы. Типографика, композиция и визуальная иерархия.':'Websites, services, mobile applications and presentations. Responsive interfaces, UI components and design systems. Typography, composition and visual hierarchy.',
  'Довожу до результата':'Design delivery','Дизайн-аудит, редизайн, подготовка макетов к разработке и контроль реализации. Взаимодействие с разработчиками и маркетологами, презентация и аргументация решений.':'Design audits, redesigns, developer handoffs and implementation reviews. Collaboration with developers and marketers, presenting and explaining design decisions.',
  'Веду команду':'Team leadership','Арт-дирекшн, коммуникация с клиентами, сметы и документация. Координация дизайнеров и кураторов, наставничество и развивающая обратная связь.':'Art direction, client communication, estimates and documentation. Coordinating designers and course mentors, mentoring and constructive feedback.',
- 'Рабочие инструменты':'Design tools','AI — часть моего процесса':'AI is part of my process',
+ 'Рабочие инструменты':'Work tools','и другие':'and others','AI — часть моего процесса':'AI is part of my process',
  'Активно использую AI-инструменты для генерации идей, концепций и визуальных референсов, а также для ускорения дизайн-процессов.':'I actively use AI tools to generate ideas, concepts and visual references, and to make design processes more efficient.',
  '01 / Идеи':'01 / Ideas','Исследую разные направления и формулирую гипотезы.':'Explore directions and form hypotheses.','02 / Концепции':'02 / Concepts','Развиваю визуальные подходы и собираю референсы.':'Develop visual approaches and collect references.','03 / Процесс':'03 / Process','Ускоряю рабочие этапы, сохраняя авторский контроль.':'Speed up the workflow while retaining creative control.',
- 'Русский — родной · Английский — B1':'Russian — native · English — B1','Буду рада':'Let’s get','знакомству.':'in touch.',
+ 'Русский — родной · Английский — B1':'Russian — native · English — B1','Буду рада':'Let’s get','знакомству':'in touch',
  'Рассматриваю вакансии в веб- и UI/UX-дизайне и арт-дирекшне. Буду рада обсудить задачи вашей команды и рассказать о своём опыте.':'I’m considering web design, UI/UX design and art direction roles. I’d be happy to discuss your team’s goals and share more about my experience.',
  'Написать в Telegram ↗':'Message me on Telegram ↗','Telegram · Предпочтительно':'Telegram · Preferred','Электронная почта':'Email','Скопировать Telegram':'Copy Telegram','Скопировать почту':'Copy email','Скопировано':'Copied','Скопируйте адрес из строки контакта':'Copy the address from the contact details',
  'Коллекция моих работ и визуальных экспериментов.':'A collection of my work and visual experiments.','Изображение JPEG':'JPEG image',
