@@ -428,3 +428,34 @@ CV.visuals=[
     "nodeId": "23:66906"
   }
 ];
+
+// Exact desktop selections from Figma, independent of gallery exports.
+CV.desktopVisuals=[
+  {
+    "src": "assets/desktop/desktop-1-a80bb68245a3.webp",
+    "thumb": "assets/desktop/desktop-1-a80bb68245a3-160.webp",
+    "srcset": "assets/desktop/desktop-1-a80bb68245a3-160.webp 160w, assets/desktop/desktop-1-a80bb68245a3-320.webp 320w",
+    "width": 1480,
+    "height": 1780,
+    "visualIndex": 2,
+    "nodeId": "29:23753"
+  },
+  {
+    "src": "assets/desktop/desktop-2-fce08b71a943.webp",
+    "thumb": "assets/desktop/desktop-2-fce08b71a943-160.webp",
+    "srcset": "assets/desktop/desktop-2-fce08b71a943-160.webp 160w, assets/desktop/desktop-2-fce08b71a943-320.webp 320w",
+    "width": 1480,
+    "height": 1780,
+    "visualIndex": 4,
+    "nodeId": "30:24552"
+  },
+  {
+    "src": "assets/desktop/desktop-3-96e102b7933a.webp",
+    "thumb": "assets/desktop/desktop-3-96e102b7933a-160.webp",
+    "srcset": "assets/desktop/desktop-3-96e102b7933a-160.webp 160w, assets/desktop/desktop-3-96e102b7933a-320.webp 320w",
+    "width": 1480,
+    "height": 1780,
+    "visualIndex": 3,
+    "nodeId": "29:24224"
+  }
+];

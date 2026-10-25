@@ -69,6 +69,7 @@ document.addEventListener('click',async e=>{
  if(b.dataset.project)openCase(b.dataset.project);
  if(b.hasAttribute('data-print'))window.open('cv.html?lang='+window.cvLocale,'_blank','noopener');
  if(b.hasAttribute('data-visual'))openImage(CV.visuals,Number(b.dataset.visual),true);
+ if(b.hasAttribute('data-desktop-visual')){const selected=CV.desktopVisuals[Number(b.dataset.desktopVisual)];const items=CV.visuals.map(v=>({...v}));for(const item of CV.desktopVisuals)items[item.visualIndex]={...items[item.visualIndex],src:item.src};openImage(items,selected.visualIndex,true)}
  if(b.dataset.filter){category=b.dataset.filter;document.querySelectorAll('[data-filter]').forEach(el=>{el.classList.toggle('active',el.dataset.filter===category);el.setAttribute('aria-pressed',el.dataset.filter===category)});document.querySelector('#projects-grid').innerHTML=projectGrid();window.localizeUI()}
  if(b.id==='reset-search'){category='Все';query='';renderView('projects',{push:false,focus:true})}
  if(b.hasAttribute('data-close-case'))closeCase();

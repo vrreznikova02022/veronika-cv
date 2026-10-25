@@ -531,8 +531,8 @@
     "solution": "Переработала структуру сайта и спроектировала сценарии поиска, фильтрации и выбора тура. Подготовила прототипы, визуальную концепцию, дизайн страниц и адаптивные версии. Систематизировала кнопки, формы, карточки и состояния в UI kit. Выстроила визуальную иерархию и правила применения фирменных цветов.",
     "url": "https://krugosvetka66.ru/",
     "linkLabel": "Сайт компании",
-    "cover": "assets/projects/krugosvetka/card-990c2cbca6fd-480.webp",
-    "coverSrcset": "assets/projects/krugosvetka/card-990c2cbca6fd-480.webp 480w, assets/projects/krugosvetka/card-990c2cbca6fd-960.webp 960w, assets/projects/krugosvetka/card-990c2cbca6fd.webp 1920w",
+    "cover": "assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-480.webp",
+    "coverSrcset": "assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-480.webp 480w, assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-960.webp 960w, assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0.webp 1920w",
     "coverWidth": 1920,
     "coverHeight": 1236,
     "caseCover": {
@@ -767,8 +767,8 @@
     "solution": "Разработала 100+ блоков с Auto Layout, компонентами и стилями. Подготовила примеры страниц, которые показывают разные способы сочетания блоков. Систематизировала ссылки на логотипы, мокапы, анимации, иконки, референсы и другие ресурсы. Добавила вопросы для брифа. Библиотека продавалась через блог дизайнера Алеси Кутузовой.",
     "url": "https://kutuzova-webdesign.ru/shablon",
     "linkLabel": "Посмотреть библиотеку",
-    "cover": "assets/projects/templates/card-9ef7d536bcd9-480.webp",
-    "coverSrcset": "assets/projects/templates/card-9ef7d536bcd9-480.webp 480w, assets/projects/templates/card-9ef7d536bcd9-960.webp 960w, assets/projects/templates/card-9ef7d536bcd9.webp 1920w",
+    "cover": "assets/projects/templates/templates-c6a4b1141dda-480.webp",
+    "coverSrcset": "assets/projects/templates/templates-c6a4b1141dda-480.webp 480w, assets/projects/templates/templates-c6a4b1141dda-960.webp 960w, assets/projects/templates/templates-c6a4b1141dda.webp 1920w",
     "coverWidth": 1920,
     "coverHeight": 1236,
     "caseCover": {
@@ -1430,8 +1430,8 @@
     "solution": "Reworked the site structure and designed the search, filtering and tour selection journeys. Created wireframes, a visual concept, page designs and responsive layouts. Organised buttons, forms, cards and states into a UI kit, defining a visual hierarchy and rules for using brand colours.",
     "url": "https://krugosvetka66.ru/",
     "linkLabel": "Company website",
-    "cover": "assets/projects/krugosvetka/card-990c2cbca6fd-480.webp",
-    "coverSrcset": "assets/projects/krugosvetka/card-990c2cbca6fd-480.webp 480w, assets/projects/krugosvetka/card-990c2cbca6fd-960.webp 960w, assets/projects/krugosvetka/card-990c2cbca6fd.webp 1920w",
+    "cover": "assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-480.webp",
+    "coverSrcset": "assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-480.webp 480w, assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-960.webp 960w, assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0.webp 1920w",
     "coverWidth": 1920,
     "coverHeight": 1236,
     "caseCover": {
@@ -1666,8 +1666,8 @@
     "solution": "Designed 100+ blocks using Auto Layout, components and styles. Built example pages demonstrating different block combinations. Organised links to logos, mockups, animations, icons, references and other resources, and added briefing questions. The library was sold through designer Alesya Kutuzova’s blog.",
     "url": "https://kutuzova-webdesign.ru/shablon",
     "linkLabel": "Explore the library",
-    "cover": "assets/projects/templates/card-9ef7d536bcd9-480.webp",
-    "coverSrcset": "assets/projects/templates/card-9ef7d536bcd9-480.webp 480w, assets/projects/templates/card-9ef7d536bcd9-960.webp 960w, assets/projects/templates/card-9ef7d536bcd9.webp 1920w",
+    "cover": "assets/projects/templates/templates-c6a4b1141dda-480.webp",
+    "coverSrcset": "assets/projects/templates/templates-c6a4b1141dda-480.webp 480w, assets/projects/templates/templates-c6a4b1141dda-960.webp 960w, assets/projects/templates/templates-c6a4b1141dda.webp 1920w",
     "coverWidth": 1920,
     "coverHeight": 1236,
     "caseCover": {

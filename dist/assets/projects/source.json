@@ -962,26 +962,30 @@
       "nodeId": "11:46652",
       "nodeType": "FRAME",
       "scale": 2,
-      "src": "assets/projects/krugosvetka/card-990c2cbca6fd.webp",
-      "preview": "assets/projects/krugosvetka/card-990c2cbca6fd-960.webp",
-      "thumb": "assets/projects/krugosvetka/card-990c2cbca6fd-480.webp",
+      "src": "assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0.webp",
+      "preview": "assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-960.webp",
+      "thumb": "assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-480.webp",
       "width": 1920,
       "height": 1236,
-      "bytes": 1400078,
-      "originalBytes": 2123596,
+      "bytes": 1439548,
+      "originalBytes": 2186705,
       "pixelIdentical": true,
       "variants": [
         {
           "width": 480,
-          "src": "assets/projects/krugosvetka/card-990c2cbca6fd-480.webp",
-          "bytes": 147400
+          "src": "assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-480.webp",
+          "bytes": 150958
         },
         {
           "width": 960,
-          "src": "assets/projects/krugosvetka/card-990c2cbca6fd-960.webp",
-          "bytes": 487112
+          "src": "assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-960.webp",
+          "bytes": 502540
         }
-      ]
+      ],
+      "key": "krugosvetka",
+      "srcset": "assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-480.webp 480w, assets/projects/krugosvetka/krugosvetka-9ac09b15bbc0-960.webp 960w",
+      "sourceBytes": 2186705,
+      "updatedOn": "2026-10-25"
     },
     {
       "assetId": "krugosvetka/cover",
@@ -1368,30 +1372,33 @@
     },
     {
       "assetId": "templates/card",
-      "nodeId": "24:73343",
+      "nodeId": "24:79874",
       "nodeType": "FRAME",
       "scale": 2,
-      "src": "assets/projects/templates/card-9ef7d536bcd9.webp",
-      "preview": "assets/projects/templates/card-9ef7d536bcd9-960.webp",
-      "thumb": "assets/projects/templates/card-9ef7d536bcd9-480.webp",
+      "src": "assets/projects/templates/templates-c6a4b1141dda.webp",
+      "preview": "assets/projects/templates/templates-c6a4b1141dda-960.webp",
+      "thumb": "assets/projects/templates/templates-c6a4b1141dda-480.webp",
       "width": 1920,
       "height": 1236,
-      "bytes": 8778,
-      "originalBytes": 31124,
+      "bytes": 8818,
+      "originalBytes": 31937,
       "pixelIdentical": true,
       "variants": [
         {
           "width": 480,
-          "src": "assets/projects/templates/card-9ef7d536bcd9-480.webp",
-          "bytes": 7540
+          "src": "assets/projects/templates/templates-c6a4b1141dda-480.webp",
+          "bytes": 9232
         },
         {
           "width": 960,
-          "src": "assets/projects/templates/card-9ef7d536bcd9-960.webp",
-          "bytes": 14498
+          "src": "assets/projects/templates/templates-c6a4b1141dda-960.webp",
+          "bytes": 17448
         }
       ],
-      "updatedOn": "2026-10-25"
+      "updatedOn": "2026-10-25",
+      "key": "templates",
+      "srcset": "assets/projects/templates/templates-c6a4b1141dda-480.webp 480w, assets/projects/templates/templates-c6a4b1141dda-960.webp 960w",
+      "sourceBytes": 31937
     },
     {
       "assetId": "templates/cover",
