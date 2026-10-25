@@ -9,7 +9,7 @@ const translations={
  'Избранный проект':'Featured project','Все проекты ↗':'All projects ↗','Характер бренда.':'Brand character.','На языке digital.':'In a digital language.','Открыть кейс ↗':'View case ↗',
  'Мой рабочий стол':'My desktop','Рабочий стол':'Desktop','Мои проекты':'My projects','В интернете':'Find me online','Рассматриваю вакансии':'Open to roles','UI/UX-дизайн · Веб-дизайн · Арт-дирекшн · AI-креатор':'UI/UX design · Web design · Art direction · AI creator',
  'Минск · UTC+3':'Minsk · UTC+3','Минск, Беларусь · UTC+3':'Minsk, Belarus · UTC+3','Сделано с вниманием к деталям':'Made with attention to detail',
- 'Сайты, интерфейсы и немного характера.':'Websites, interfaces and a little character.','Все':'All','Сайты':'Websites','Интерфейсы':'Interfaces','Материалы':'Resources','Найти проект':'Find a project','Категория проектов':'Project category',
+ 'Сайты, интерфейсы и немного характера.':'Websites, interfaces and a little character.','Все':'All','Сайты':'Websites','Интерфейсы':'Interfaces','Материалы':'Resources','AI-визуалы':'AI visuals','Найти проект':'Find a project','Категория проектов':'Project category',
  'Ничего не нашлось':'No projects found','Попробуйте другое название или выберите все проекты.':'Try another name or select all projects.','Показать все проекты':'Show all projects',
  'Ещё реализованные сайты':'More live websites','Больше работ и визуальных экспериментов —':'More work and visual experiments','в Figma ↗':'in Figma ↗',
  'Дизайн, управление проектами и обучение.':'Design, project management and education.','Резюме для печати ↗':'Print-friendly CV ↗',
@@ -45,6 +45,8 @@ function translatedText(value){
   else if(/^Увеличить изображение \d+ проекта /.test(trimmed))result=trimmed.replace('Увеличить изображение','Enlarge image').replace(' проекта ',' from ');
   else if(/ — превью проекта$/.test(trimmed))result=trimmed.replace(' — превью проекта',' — project preview');
   else if(/ — обложка проекта$/.test(trimmed))result=trimmed.replace(' — обложка проекта',' — project cover');
+  else if(/^Увеличить обложку проекта /.test(trimmed))result=trimmed.replace('Увеличить обложку проекта','Enlarge cover of');
+  else if(/ — иллюстрация \d+$/.test(trimmed))result=trimmed.replace(' — иллюстрация ',' — case image ');
   else if(/ — экран \d+$/.test(trimmed))result=trimmed.replace(' — экран ',' — screen ');
   else if(/ — Вероника Резникова$/.test(trimmed))result=translatedText(trimmed.replace(' — Вероника Резникова',''))+' — Veronika Reznikova';
  }
