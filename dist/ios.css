@@ -66,3 +66,5 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline-color:#6570c4}
 .other-work-credit{display:inline-block;margin:0 0 9px;padding:5px 10px;border-radius:7px;background:var(--active);color:#626b9a;font-size:11px;line-height:1.5}
 
 .site-credit a:hover{text-decoration:underline;text-underline-offset:3px}
+
+.other-work>.link-row:last-child{border-bottom:0}
