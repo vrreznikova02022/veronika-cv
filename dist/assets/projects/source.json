@@ -1,0 +1,1612 @@
+{
+  "fileKey": "OQczPAdV2EUuntO6UNY1lq",
+  "sectionId": "15:63837",
+  "exportedOn": "2026-10-25",
+  "order": [
+    "studio",
+    "view",
+    "nellis",
+    "apes",
+    "krugosvetka",
+    "soft-blue",
+    "templates",
+    "crm"
+  ],
+  "projects": [
+    {
+      "id": "studio",
+      "nodeId": "8:561",
+      "title": "Личная студия"
+    },
+    {
+      "id": "view",
+      "nodeId": "8:173",
+      "title": "VIEW"
+    },
+    {
+      "id": "nellis",
+      "nodeId": "8:8778",
+      "title": "Nellis Architecture"
+    },
+    {
+      "id": "apes",
+      "nodeId": "8:640",
+      "title": "Pickleball APES"
+    },
+    {
+      "id": "krugosvetka",
+      "nodeId": "10:24766",
+      "title": "Кругосветка · Редизайн сайта"
+    },
+    {
+      "id": "soft-blue",
+      "nodeId": "11:53695",
+      "title": "SOFT BLUE · AI-фэшн-визуал"
+    },
+    {
+      "id": "templates",
+      "nodeId": "8:8813",
+      "title": "Библиотека шаблонов для дизайнеров"
+    },
+    {
+      "id": "crm",
+      "nodeId": "8:8377",
+      "title": "CRM Software"
+    }
+  ],
+  "exports": [
+    {
+      "assetId": "studio/card",
+      "nodeId": "11:46633",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/studio/card-532b49d2913d.webp",
+      "preview": "assets/projects/studio/card-532b49d2913d-960.webp",
+      "thumb": "assets/projects/studio/card-532b49d2913d-480.webp",
+      "width": 1920,
+      "height": 1236,
+      "bytes": 232944,
+      "originalBytes": 442782,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 480,
+          "src": "assets/projects/studio/card-532b49d2913d-480.webp",
+          "bytes": 47064
+        },
+        {
+          "width": 960,
+          "src": "assets/projects/studio/card-532b49d2913d-960.webp",
+          "bytes": 125674
+        }
+      ]
+    },
+    {
+      "assetId": "studio/cover",
+      "nodeId": "8:569",
+      "nodeType": "RECTANGLE",
+      "scale": 2,
+      "src": "assets/projects/studio/cover-7973d9d698d0.webp",
+      "preview": "assets/projects/studio/cover-7973d9d698d0-960.webp",
+      "thumb": "assets/projects/studio/cover-7973d9d698d0-960.webp",
+      "width": 1920,
+      "height": 1200,
+      "bytes": 232814,
+      "originalBytes": 442111,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/studio/cover-7973d9d698d0-960.webp",
+          "bytes": 125742
+        }
+      ]
+    },
+    {
+      "assetId": "studio/01",
+      "nodeId": "8:580",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/studio/01-4711216b74c6.webp",
+      "preview": "assets/projects/studio/01-4711216b74c6-960.webp",
+      "thumb": "assets/projects/studio/01-4711216b74c6-960.webp",
+      "width": 1920,
+      "height": 2410,
+      "bytes": 349280,
+      "originalBytes": 680441,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/studio/01-4711216b74c6-960.webp",
+          "bytes": 190818
+        }
+      ]
+    },
+    {
+      "assetId": "studio/02",
+      "nodeId": "8:585",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/studio/02-08e034173447.webp",
+      "preview": "assets/projects/studio/02-08e034173447-960.webp",
+      "thumb": "assets/projects/studio/02-08e034173447-960.webp",
+      "width": 1920,
+      "height": 1200,
+      "bytes": 89006,
+      "originalBytes": 239160,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/studio/02-08e034173447-960.webp",
+          "bytes": 66690
+        }
+      ]
+    },
+    {
+      "assetId": "studio/03",
+      "nodeId": "8:589",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/studio/03-fd6e59ef4397.webp",
+      "preview": "assets/projects/studio/03-fd6e59ef4397-960.webp",
+      "thumb": "assets/projects/studio/03-fd6e59ef4397-960.webp",
+      "width": 1920,
+      "height": 3620,
+      "bytes": 614076,
+      "originalBytes": 1118175,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/studio/03-fd6e59ef4397-960.webp",
+          "bytes": 280608
+        }
+      ]
+    },
+    {
+      "assetId": "studio/04",
+      "nodeId": "8:595",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/studio/04-8457b6373a67.webp",
+      "preview": "assets/projects/studio/04-8457b6373a67-960.webp",
+      "thumb": "assets/projects/studio/04-8457b6373a67-960.webp",
+      "width": 1920,
+      "height": 2410,
+      "bytes": 152266,
+      "originalBytes": 341667,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/studio/04-8457b6373a67-960.webp",
+          "bytes": 87578
+        }
+      ]
+    },
+    {
+      "assetId": "studio/05",
+      "nodeId": "8:600",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/studio/05-3619393fd780.webp",
+      "preview": "assets/projects/studio/05-3619393fd780-960.webp",
+      "thumb": "assets/projects/studio/05-3619393fd780-960.webp",
+      "width": 1920,
+      "height": 3620,
+      "bytes": 315034,
+      "originalBytes": 626609,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/studio/05-3619393fd780-960.webp",
+          "bytes": 158056
+        }
+      ]
+    },
+    {
+      "assetId": "studio/06",
+      "nodeId": "8:606",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/studio/06-f6b5b24212d7.webp",
+      "preview": "assets/projects/studio/06-f6b5b24212d7-960.webp",
+      "thumb": "assets/projects/studio/06-f6b5b24212d7-960.webp",
+      "width": 1920,
+      "height": 2410,
+      "bytes": 298564,
+      "originalBytes": 568249,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/studio/06-f6b5b24212d7-960.webp",
+          "bytes": 152952
+        }
+      ]
+    },
+    {
+      "assetId": "studio/07",
+      "nodeId": "8:611",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/studio/07-1cd6ff8cdc13.webp",
+      "preview": "assets/projects/studio/07-1cd6ff8cdc13-960.webp",
+      "thumb": "assets/projects/studio/07-1cd6ff8cdc13-960.webp",
+      "width": 1920,
+      "height": 2410,
+      "bytes": 228616,
+      "originalBytes": 452054,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/studio/07-1cd6ff8cdc13-960.webp",
+          "bytes": 122922
+        }
+      ]
+    },
+    {
+      "assetId": "view/card",
+      "nodeId": "11:46624",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/card-71f048190e60.webp",
+      "preview": "assets/projects/view/card-71f048190e60-960.webp",
+      "thumb": "assets/projects/view/card-71f048190e60-480.webp",
+      "width": 1920,
+      "height": 1236,
+      "bytes": 1313374,
+      "originalBytes": 2201906,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 480,
+          "src": "assets/projects/view/card-71f048190e60-480.webp",
+          "bytes": 138720
+        },
+        {
+          "width": 960,
+          "src": "assets/projects/view/card-71f048190e60-960.webp",
+          "bytes": 468546
+        }
+      ]
+    },
+    {
+      "assetId": "view/cover",
+      "nodeId": "8:181",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/cover-fc2b4c62a527.webp",
+      "preview": "assets/projects/view/cover-fc2b4c62a527-960.webp",
+      "thumb": "assets/projects/view/cover-fc2b4c62a527-960.webp",
+      "width": 1920,
+      "height": 1094,
+      "bytes": 1159992,
+      "originalBytes": 1948569,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/cover-fc2b4c62a527-960.webp",
+          "bytes": 407800
+        }
+      ]
+    },
+    {
+      "assetId": "view/01",
+      "nodeId": "8:199",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/01-24cb7ec57330.webp",
+      "preview": "assets/projects/view/01-24cb7ec57330-960.webp",
+      "thumb": "assets/projects/view/01-24cb7ec57330-960.webp",
+      "width": 1920,
+      "height": 1767,
+      "bytes": 1062386,
+      "originalBytes": 1807188,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/01-24cb7ec57330-960.webp",
+          "bytes": 307378
+        }
+      ]
+    },
+    {
+      "assetId": "view/02",
+      "nodeId": "8:219",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/02-943265be7d8a.webp",
+      "preview": "assets/projects/view/02-943265be7d8a-960.webp",
+      "thumb": "assets/projects/view/02-943265be7d8a-960.webp",
+      "width": 1920,
+      "height": 2667,
+      "bytes": 1565482,
+      "originalBytes": 2610295,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/02-943265be7d8a-960.webp",
+          "bytes": 533352
+        }
+      ]
+    },
+    {
+      "assetId": "view/03",
+      "nodeId": "8:259",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/03-1941e4a51866.webp",
+      "preview": "assets/projects/view/03-1941e4a51866-960.webp",
+      "thumb": "assets/projects/view/03-1941e4a51866-960.webp",
+      "width": 1920,
+      "height": 2276,
+      "bytes": 1691962,
+      "originalBytes": 2761506,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/03-1941e4a51866-960.webp",
+          "bytes": 531478
+        }
+      ]
+    },
+    {
+      "assetId": "view/04",
+      "nodeId": "8:321",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/04-4e7ff1a2d8ec.webp",
+      "preview": "assets/projects/view/04-4e7ff1a2d8ec-960.webp",
+      "thumb": "assets/projects/view/04-4e7ff1a2d8ec-960.webp",
+      "width": 1920,
+      "height": 1094,
+      "bytes": 7896,
+      "originalBytes": 26843,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/04-4e7ff1a2d8ec-960.webp",
+          "bytes": 10300
+        }
+      ]
+    },
+    {
+      "assetId": "view/05",
+      "nodeId": "8:331",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/05-51664c3a8218.webp",
+      "preview": "assets/projects/view/05-51664c3a8218-960.webp",
+      "thumb": "assets/projects/view/05-51664c3a8218-960.webp",
+      "width": 1920,
+      "height": 1094,
+      "bytes": 34266,
+      "originalBytes": 87207,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/05-51664c3a8218-960.webp",
+          "bytes": 41302
+        }
+      ]
+    },
+    {
+      "assetId": "view/06",
+      "nodeId": "8:342",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/06-1ce14949e51b.webp",
+      "preview": "assets/projects/view/06-1ce14949e51b-960.webp",
+      "thumb": "assets/projects/view/06-1ce14949e51b-960.webp",
+      "width": 1920,
+      "height": 1094,
+      "bytes": 27690,
+      "originalBytes": 66627,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/06-1ce14949e51b-960.webp",
+          "bytes": 20808
+        }
+      ]
+    },
+    {
+      "assetId": "view/07",
+      "nodeId": "8:363",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/07-e4279468245e.webp",
+      "preview": "assets/projects/view/07-e4279468245e-960.webp",
+      "thumb": "assets/projects/view/07-e4279468245e-960.webp",
+      "width": 1920,
+      "height": 1264,
+      "bytes": 15964,
+      "originalBytes": 48512,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/07-e4279468245e-960.webp",
+          "bytes": 22474
+        }
+      ]
+    },
+    {
+      "assetId": "view/08",
+      "nodeId": "8:426",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/08-31a33021be0e.webp",
+      "preview": "assets/projects/view/08-31a33021be0e-960.webp",
+      "thumb": "assets/projects/view/08-31a33021be0e-960.webp",
+      "width": 1920,
+      "height": 1094,
+      "bytes": 13662,
+      "originalBytes": 35804,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/08-31a33021be0e-960.webp",
+          "bytes": 12298
+        }
+      ]
+    },
+    {
+      "assetId": "view/09",
+      "nodeId": "8:457",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/09-eefdab221b3e.webp",
+      "preview": "assets/projects/view/09-eefdab221b3e-960.webp",
+      "thumb": "assets/projects/view/09-eefdab221b3e-960.webp",
+      "width": 1920,
+      "height": 1207,
+      "bytes": 30040,
+      "originalBytes": 86919,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/09-eefdab221b3e-960.webp",
+          "bytes": 39566
+        }
+      ]
+    },
+    {
+      "assetId": "view/10",
+      "nodeId": "8:490",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/10-ae5d2f476cff.webp",
+      "preview": "assets/projects/view/10-ae5d2f476cff-960.webp",
+      "thumb": "assets/projects/view/10-ae5d2f476cff-960.webp",
+      "width": 1920,
+      "height": 1094,
+      "bytes": 32918,
+      "originalBytes": 84297,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/10-ae5d2f476cff-960.webp",
+          "bytes": 43056
+        }
+      ]
+    },
+    {
+      "assetId": "view/11",
+      "nodeId": "8:501",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/11-b0e0a82d9a82.webp",
+      "preview": "assets/projects/view/11-b0e0a82d9a82-960.webp",
+      "thumb": "assets/projects/view/11-b0e0a82d9a82-960.webp",
+      "width": 1920,
+      "height": 1207,
+      "bytes": 2060422,
+      "originalBytes": 3241671,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/11-b0e0a82d9a82-960.webp",
+          "bytes": 464956
+        }
+      ]
+    },
+    {
+      "assetId": "view/12",
+      "nodeId": "8:505",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/12-498457430493.webp",
+      "preview": "assets/projects/view/12-498457430493-960.webp",
+      "thumb": "assets/projects/view/12-498457430493-960.webp",
+      "width": 1920,
+      "height": 1058,
+      "bytes": 666500,
+      "originalBytes": 1116314,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/12-498457430493-960.webp",
+          "bytes": 213058
+        }
+      ]
+    },
+    {
+      "assetId": "view/13",
+      "nodeId": "8:539",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/view/13-8b1f4bf5f4f1.webp",
+      "preview": "assets/projects/view/13-8b1f4bf5f4f1-960.webp",
+      "thumb": "assets/projects/view/13-8b1f4bf5f4f1-960.webp",
+      "width": 1920,
+      "height": 1207,
+      "bytes": 1766820,
+      "originalBytes": 2837448,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/view/13-8b1f4bf5f4f1-960.webp",
+          "bytes": 450196
+        }
+      ]
+    },
+    {
+      "assetId": "nellis/card",
+      "nodeId": "11:46638",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/nellis/card-c4cfbc262c5b.webp",
+      "preview": "assets/projects/nellis/card-c4cfbc262c5b-960.webp",
+      "thumb": "assets/projects/nellis/card-c4cfbc262c5b-480.webp",
+      "width": 1920,
+      "height": 1236,
+      "bytes": 2567278,
+      "originalBytes": 3942630,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 480,
+          "src": "assets/projects/nellis/card-c4cfbc262c5b-480.webp",
+          "bytes": 167804
+        },
+        {
+          "width": 960,
+          "src": "assets/projects/nellis/card-c4cfbc262c5b-960.webp",
+          "bytes": 646130
+        }
+      ]
+    },
+    {
+      "assetId": "nellis/cover",
+      "nodeId": "8:17420",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/nellis/cover-d97bed97fe65.webp",
+      "preview": "assets/projects/nellis/cover-d97bed97fe65-960.webp",
+      "thumb": "assets/projects/nellis/cover-d97bed97fe65-960.webp",
+      "width": 1920,
+      "height": 1348,
+      "bytes": 2692572,
+      "originalBytes": 4113996,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/nellis/cover-d97bed97fe65-960.webp",
+          "bytes": 679144
+        }
+      ]
+    },
+    {
+      "assetId": "nellis/01",
+      "nodeId": "8:17467",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/nellis/01-14a80f7a5ebc.webp",
+      "preview": "assets/projects/nellis/01-14a80f7a5ebc-960.webp",
+      "thumb": "assets/projects/nellis/01-14a80f7a5ebc-960.webp",
+      "width": 1920,
+      "height": 3544,
+      "bytes": 3606920,
+      "originalBytes": 5755709,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/nellis/01-14a80f7a5ebc-960.webp",
+          "bytes": 1017334
+        }
+      ]
+    },
+    {
+      "assetId": "apes/card",
+      "nodeId": "11:46635",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/card-63f4f169963c.webp",
+      "preview": "assets/projects/apes/card-63f4f169963c-960.webp",
+      "thumb": "assets/projects/apes/card-63f4f169963c-480.webp",
+      "width": 1920,
+      "height": 1236,
+      "bytes": 1770810,
+      "originalBytes": 2810678,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 480,
+          "src": "assets/projects/apes/card-63f4f169963c-480.webp",
+          "bytes": 174108
+        },
+        {
+          "width": 960,
+          "src": "assets/projects/apes/card-63f4f169963c-960.webp",
+          "bytes": 586904
+        }
+      ]
+    },
+    {
+      "assetId": "apes/cover",
+      "nodeId": "8:648",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/cover-88fc8c45d606.webp",
+      "preview": "assets/projects/apes/cover-88fc8c45d606-960.webp",
+      "thumb": "assets/projects/apes/cover-88fc8c45d606-960.webp",
+      "width": 1920,
+      "height": 1558,
+      "bytes": 2271664,
+      "originalBytes": 3613487,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/cover-88fc8c45d606-960.webp",
+          "bytes": 747638
+        }
+      ]
+    },
+    {
+      "assetId": "apes/01",
+      "nodeId": "8:8376",
+      "nodeType": "RECTANGLE",
+      "scale": 2,
+      "src": "assets/projects/apes/01-baa4ec138bc7.webp",
+      "preview": "assets/projects/apes/01-baa4ec138bc7-960.webp",
+      "thumb": "assets/projects/apes/01-baa4ec138bc7-960.webp",
+      "width": 1920,
+      "height": 2036,
+      "bytes": 410658,
+      "originalBytes": 744544,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/01-baa4ec138bc7-960.webp",
+          "bytes": 155976
+        }
+      ]
+    },
+    {
+      "assetId": "apes/02",
+      "nodeId": "8:5061",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/02-32fe44a2d874.webp",
+      "preview": "assets/projects/apes/02-32fe44a2d874-960.webp",
+      "thumb": "assets/projects/apes/02-32fe44a2d874-960.webp",
+      "width": 1920,
+      "height": 1191,
+      "bytes": 1743084,
+      "originalBytes": 2672690,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/02-32fe44a2d874-960.webp",
+          "bytes": 511916
+        }
+      ]
+    },
+    {
+      "assetId": "apes/03",
+      "nodeId": "8:5071",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/03-4cff7d144440.webp",
+      "preview": "assets/projects/apes/03-4cff7d144440-960.webp",
+      "thumb": "assets/projects/apes/03-4cff7d144440-960.webp",
+      "width": 1920,
+      "height": 1244,
+      "bytes": 645508,
+      "originalBytes": 1117460,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/03-4cff7d144440-960.webp",
+          "bytes": 222082
+        }
+      ]
+    },
+    {
+      "assetId": "apes/04",
+      "nodeId": "8:5254",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/04-e364a031a489.webp",
+      "preview": "assets/projects/apes/04-e364a031a489-960.webp",
+      "thumb": "assets/projects/apes/04-e364a031a489-960.webp",
+      "width": 1920,
+      "height": 843,
+      "bytes": 19102,
+      "originalBytes": 55033,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/04-e364a031a489-960.webp",
+          "bytes": 20634
+        }
+      ]
+    },
+    {
+      "assetId": "apes/05",
+      "nodeId": "8:5282",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/05-0fc0356594da.webp",
+      "preview": "assets/projects/apes/05-0fc0356594da-960.webp",
+      "thumb": "assets/projects/apes/05-0fc0356594da-960.webp",
+      "width": 1920,
+      "height": 1340,
+      "bytes": 631498,
+      "originalBytes": 1076444,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/05-0fc0356594da-960.webp",
+          "bytes": 279718
+        }
+      ]
+    },
+    {
+      "assetId": "apes/06",
+      "nodeId": "8:5352",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/06-758e8a7a5ecf.webp",
+      "preview": "assets/projects/apes/06-758e8a7a5ecf-960.webp",
+      "thumb": "assets/projects/apes/06-758e8a7a5ecf-960.webp",
+      "width": 1920,
+      "height": 1444,
+      "bytes": 595368,
+      "originalBytes": 1027388,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/06-758e8a7a5ecf-960.webp",
+          "bytes": 212048
+        }
+      ]
+    },
+    {
+      "assetId": "apes/07",
+      "nodeId": "8:5359",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/07-1a5014a6a7cb.webp",
+      "preview": "assets/projects/apes/07-1a5014a6a7cb-960.webp",
+      "thumb": "assets/projects/apes/07-1a5014a6a7cb-960.webp",
+      "width": 1920,
+      "height": 6011,
+      "bytes": 3365212,
+      "originalBytes": 5481409,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/07-1a5014a6a7cb-960.webp",
+          "bytes": 1097366
+        }
+      ]
+    },
+    {
+      "assetId": "apes/08",
+      "nodeId": "8:5869",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/08-3f605e5a933c.webp",
+      "preview": "assets/projects/apes/08-3f605e5a933c-960.webp",
+      "thumb": "assets/projects/apes/08-3f605e5a933c-960.webp",
+      "width": 1920,
+      "height": 2131,
+      "bytes": 3337692,
+      "originalBytes": 5126523,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/08-3f605e5a933c-960.webp",
+          "bytes": 930696
+        }
+      ]
+    },
+    {
+      "assetId": "apes/09",
+      "nodeId": "8:5880",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/09-74ff67cbdda5.webp",
+      "preview": "assets/projects/apes/09-74ff67cbdda5-960.webp",
+      "thumb": "assets/projects/apes/09-74ff67cbdda5-960.webp",
+      "width": 1920,
+      "height": 4350,
+      "bytes": 2181910,
+      "originalBytes": 3504132,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/09-74ff67cbdda5-960.webp",
+          "bytes": 693284
+        }
+      ]
+    },
+    {
+      "assetId": "apes/10",
+      "nodeId": "8:6109",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/10-c845c8b456d6.webp",
+      "preview": "assets/projects/apes/10-c845c8b456d6-960.webp",
+      "thumb": "assets/projects/apes/10-c845c8b456d6-960.webp",
+      "width": 1920,
+      "height": 1191,
+      "bytes": 2078784,
+      "originalBytes": 3211534,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/10-c845c8b456d6-960.webp",
+          "bytes": 589998
+        }
+      ]
+    },
+    {
+      "assetId": "apes/11",
+      "nodeId": "8:6111",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/11-81dbdb243a45.webp",
+      "preview": "assets/projects/apes/11-81dbdb243a45-960.webp",
+      "thumb": "assets/projects/apes/11-81dbdb243a45-960.webp",
+      "width": 1920,
+      "height": 3647,
+      "bytes": 653348,
+      "originalBytes": 1142455,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/11-81dbdb243a45-960.webp",
+          "bytes": 287900
+        }
+      ]
+    },
+    {
+      "assetId": "apes/12",
+      "nodeId": "8:6918",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/12-a0aaf363990f.webp",
+      "preview": "assets/projects/apes/12-a0aaf363990f-960.webp",
+      "thumb": "assets/projects/apes/12-a0aaf363990f-960.webp",
+      "width": 1920,
+      "height": 1191,
+      "bytes": 1962162,
+      "originalBytes": 3089483,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/12-a0aaf363990f-960.webp",
+          "bytes": 539986
+        }
+      ]
+    },
+    {
+      "assetId": "apes/13",
+      "nodeId": "8:6921",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/apes/13-70a0d830ad17.webp",
+      "preview": "assets/projects/apes/13-70a0d830ad17-960.webp",
+      "thumb": "assets/projects/apes/13-70a0d830ad17-960.webp",
+      "width": 1920,
+      "height": 1710,
+      "bytes": 968104,
+      "originalBytes": 1506600,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/apes/13-70a0d830ad17-960.webp",
+          "bytes": 270642
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/card",
+      "nodeId": "11:46652",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/card-990c2cbca6fd.webp",
+      "preview": "assets/projects/krugosvetka/card-990c2cbca6fd-960.webp",
+      "thumb": "assets/projects/krugosvetka/card-990c2cbca6fd-480.webp",
+      "width": 1920,
+      "height": 1236,
+      "bytes": 1400078,
+      "originalBytes": 2123596,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 480,
+          "src": "assets/projects/krugosvetka/card-990c2cbca6fd-480.webp",
+          "bytes": 147400
+        },
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/card-990c2cbca6fd-960.webp",
+          "bytes": 487112
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/cover",
+      "nodeId": "10:24774",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/cover-e9ffd6688bfe.webp",
+      "preview": "assets/projects/krugosvetka/cover-e9ffd6688bfe-960.webp",
+      "thumb": "assets/projects/krugosvetka/cover-e9ffd6688bfe-960.webp",
+      "width": 1920,
+      "height": 1348,
+      "bytes": 1506076,
+      "originalBytes": 2289697,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/cover-e9ffd6688bfe-960.webp",
+          "bytes": 525668
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/01",
+      "nodeId": "10:25387",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/01-5ff15677bc23.webp",
+      "preview": "assets/projects/krugosvetka/01-5ff15677bc23-960.webp",
+      "thumb": "assets/projects/krugosvetka/01-5ff15677bc23-960.webp",
+      "width": 1920,
+      "height": 862,
+      "bytes": 27468,
+      "originalBytes": 80409,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/01-5ff15677bc23-960.webp",
+          "bytes": 42980
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/02",
+      "nodeId": "10:25410",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/02-046419da6f23.webp",
+      "preview": "assets/projects/krugosvetka/02-046419da6f23-960.webp",
+      "thumb": "assets/projects/krugosvetka/02-046419da6f23-960.webp",
+      "width": 1920,
+      "height": 1434,
+      "bytes": 1039336,
+      "originalBytes": 1784410,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/02-046419da6f23-960.webp",
+          "bytes": 356430
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/03",
+      "nodeId": "10:25552",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/03-a0a3c5abef31.webp",
+      "preview": "assets/projects/krugosvetka/03-a0a3c5abef31-960.webp",
+      "thumb": "assets/projects/krugosvetka/03-a0a3c5abef31-960.webp",
+      "width": 1920,
+      "height": 1643,
+      "bytes": 48834,
+      "originalBytes": 129798,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/03-a0a3c5abef31-960.webp",
+          "bytes": 54144
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/04",
+      "nodeId": "10:25613",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/04-a453a82942a8.webp",
+      "preview": "assets/projects/krugosvetka/04-a453a82942a8-960.webp",
+      "thumb": "assets/projects/krugosvetka/04-a453a82942a8-960.webp",
+      "width": 1920,
+      "height": 948,
+      "bytes": 723794,
+      "originalBytes": 1255248,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/04-a453a82942a8-960.webp",
+          "bytes": 257168
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/05",
+      "nodeId": "10:25763",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/05-c574180a8536.webp",
+      "preview": "assets/projects/krugosvetka/05-c574180a8536-960.webp",
+      "thumb": "assets/projects/krugosvetka/05-c574180a8536-960.webp",
+      "width": 1920,
+      "height": 2640,
+      "bytes": 1410022,
+      "originalBytes": 2165347,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/05-c574180a8536-960.webp",
+          "bytes": 554812
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/06",
+      "nodeId": "10:26439",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/06-4138c7df03f4.webp",
+      "preview": "assets/projects/krugosvetka/06-4138c7df03f4-960.webp",
+      "thumb": "assets/projects/krugosvetka/06-4138c7df03f4-960.webp",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1209976,
+      "originalBytes": 2011410,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/06-4138c7df03f4-960.webp",
+          "bytes": 429538
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/07",
+      "nodeId": "10:26442",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/07-cff624c93bd8.webp",
+      "preview": "assets/projects/krugosvetka/07-cff624c93bd8-960.webp",
+      "thumb": "assets/projects/krugosvetka/07-cff624c93bd8-960.webp",
+      "width": 1920,
+      "height": 1824,
+      "bytes": 484282,
+      "originalBytes": 764933,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/07-cff624c93bd8-960.webp",
+          "bytes": 275150
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/08",
+      "nodeId": "10:28935",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/08-0a6a0a7002e7.webp",
+      "preview": "assets/projects/krugosvetka/08-0a6a0a7002e7-960.webp",
+      "thumb": "assets/projects/krugosvetka/08-0a6a0a7002e7-960.webp",
+      "width": 1920,
+      "height": 5532,
+      "bytes": 3503592,
+      "originalBytes": 5644433,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/08-0a6a0a7002e7-960.webp",
+          "bytes": 1284748
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/09",
+      "nodeId": "10:30823",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/09-52c86f818d2a.webp",
+      "preview": "assets/projects/krugosvetka/09-52c86f818d2a-960.webp",
+      "thumb": "assets/projects/krugosvetka/09-52c86f818d2a-960.webp",
+      "width": 1920,
+      "height": 1030,
+      "bytes": 39662,
+      "originalBytes": 105092,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/09-52c86f818d2a-960.webp",
+          "bytes": 52086
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/10",
+      "nodeId": "10:30867",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/10-db60e839015b.webp",
+      "preview": "assets/projects/krugosvetka/10-db60e839015b-960.webp",
+      "thumb": "assets/projects/krugosvetka/10-db60e839015b-960.webp",
+      "width": 1920,
+      "height": 1798,
+      "bytes": 904886,
+      "originalBytes": 1473344,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/10-db60e839015b-960.webp",
+          "bytes": 310544
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/11",
+      "nodeId": "10:31205",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/11-120eccc50e54.webp",
+      "preview": "assets/projects/krugosvetka/11-120eccc50e54-960.webp",
+      "thumb": "assets/projects/krugosvetka/11-120eccc50e54-960.webp",
+      "width": 1920,
+      "height": 1334,
+      "bytes": 300742,
+      "originalBytes": 519782,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/11-120eccc50e54-960.webp",
+          "bytes": 103508
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/12",
+      "nodeId": "10:31220",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/12-077c18c26df0.webp",
+      "preview": "assets/projects/krugosvetka/12-077c18c26df0-960.webp",
+      "thumb": "assets/projects/krugosvetka/12-077c18c26df0-960.webp",
+      "width": 1920,
+      "height": 1634,
+      "bytes": 53082,
+      "originalBytes": 150185,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/12-077c18c26df0-960.webp",
+          "bytes": 51508
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/13",
+      "nodeId": "10:31389",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/13-00fb6c59ae18.webp",
+      "preview": "assets/projects/krugosvetka/13-00fb6c59ae18-960.webp",
+      "thumb": "assets/projects/krugosvetka/13-00fb6c59ae18-960.webp",
+      "width": 1920,
+      "height": 1334,
+      "bytes": 135798,
+      "originalBytes": 261003,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/13-00fb6c59ae18-960.webp",
+          "bytes": 52682
+        }
+      ]
+    },
+    {
+      "assetId": "krugosvetka/14",
+      "nodeId": "10:31810",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/krugosvetka/14-096770824457.webp",
+      "preview": "assets/projects/krugosvetka/14-096770824457-960.webp",
+      "thumb": "assets/projects/krugosvetka/14-096770824457-960.webp",
+      "width": 1920,
+      "height": 2764,
+      "bytes": 1113548,
+      "originalBytes": 1714039,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/krugosvetka/14-096770824457-960.webp",
+          "bytes": 431814
+        }
+      ]
+    },
+    {
+      "assetId": "soft-blue/card",
+      "nodeId": "11:63664",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/soft-blue/card-484e8ae96a29.webp",
+      "preview": "assets/projects/soft-blue/card-484e8ae96a29-960.webp",
+      "thumb": "assets/projects/soft-blue/card-484e8ae96a29-480.webp",
+      "width": 1920,
+      "height": 1236,
+      "bytes": 2186130,
+      "originalBytes": 3504966,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 480,
+          "src": "assets/projects/soft-blue/card-484e8ae96a29-480.webp",
+          "bytes": 164030
+        },
+        {
+          "width": 960,
+          "src": "assets/projects/soft-blue/card-484e8ae96a29-960.webp",
+          "bytes": 598678
+        }
+      ]
+    },
+    {
+      "assetId": "soft-blue/cover",
+      "nodeId": "11:53972",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/soft-blue/cover-30bae57a34f6.webp",
+      "preview": "assets/projects/soft-blue/cover-30bae57a34f6-960.webp",
+      "thumb": "assets/projects/soft-blue/cover-30bae57a34f6-960.webp",
+      "width": 1920,
+      "height": 1499,
+      "bytes": 2649854,
+      "originalBytes": 4248591,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/soft-blue/cover-30bae57a34f6-960.webp",
+          "bytes": 725156
+        }
+      ]
+    },
+    {
+      "assetId": "soft-blue/01",
+      "nodeId": "11:53714",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/soft-blue/01-2e3090252fcf.webp",
+      "preview": "assets/projects/soft-blue/01-2e3090252fcf-960.webp",
+      "thumb": "assets/projects/soft-blue/01-2e3090252fcf-960.webp",
+      "width": 1920,
+      "height": 7461,
+      "bytes": 9203680,
+      "originalBytes": 14532935,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/soft-blue/01-2e3090252fcf-960.webp",
+          "bytes": 2472884
+        }
+      ]
+    },
+    {
+      "assetId": "templates/card",
+      "nodeId": "11:47049",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/templates/card-f3c6c59ad2cd.webp",
+      "preview": "assets/projects/templates/card-f3c6c59ad2cd-960.webp",
+      "thumb": "assets/projects/templates/card-f3c6c59ad2cd-480.webp",
+      "width": 1920,
+      "height": 1236,
+      "bytes": 1361644,
+      "originalBytes": 2338945,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 480,
+          "src": "assets/projects/templates/card-f3c6c59ad2cd-480.webp",
+          "bytes": 151456
+        },
+        {
+          "width": 960,
+          "src": "assets/projects/templates/card-f3c6c59ad2cd-960.webp",
+          "bytes": 480178
+        }
+      ]
+    },
+    {
+      "assetId": "templates/cover",
+      "nodeId": "10:18222",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/templates/cover-2ed97af438e0.webp",
+      "preview": "assets/projects/templates/cover-2ed97af438e0-960.webp",
+      "thumb": "assets/projects/templates/cover-2ed97af438e0-960.webp",
+      "width": 1920,
+      "height": 1111,
+      "bytes": 1227470,
+      "originalBytes": 2106483,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/templates/cover-2ed97af438e0-960.webp",
+          "bytes": 437600
+        }
+      ]
+    },
+    {
+      "assetId": "templates/01",
+      "nodeId": "10:17544",
+      "nodeType": "RECTANGLE",
+      "scale": 2,
+      "src": "assets/projects/templates/01-681bbdea917c.webp",
+      "preview": "assets/projects/templates/01-681bbdea917c-960.webp",
+      "thumb": "assets/projects/templates/01-681bbdea917c-960.webp",
+      "width": 1920,
+      "height": 1200,
+      "bytes": 204794,
+      "originalBytes": 386535,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/templates/01-681bbdea917c-960.webp",
+          "bytes": 95934
+        }
+      ]
+    },
+    {
+      "assetId": "templates/02",
+      "nodeId": "10:17541",
+      "nodeType": "RECTANGLE",
+      "scale": 2,
+      "src": "assets/projects/templates/02-a16231ec13cb.webp",
+      "preview": "assets/projects/templates/02-a16231ec13cb-960.webp",
+      "thumb": "assets/projects/templates/02-a16231ec13cb-960.webp",
+      "width": 1920,
+      "height": 1200,
+      "bytes": 346318,
+      "originalBytes": 629338,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/templates/02-a16231ec13cb-960.webp",
+          "bytes": 148434
+        }
+      ]
+    },
+    {
+      "assetId": "templates/03",
+      "nodeId": "10:17540",
+      "nodeType": "RECTANGLE",
+      "scale": 2,
+      "src": "assets/projects/templates/03-5285e5e81a7a.webp",
+      "preview": "assets/projects/templates/03-5285e5e81a7a-960.webp",
+      "thumb": "assets/projects/templates/03-5285e5e81a7a-960.webp",
+      "width": 1920,
+      "height": 1200,
+      "bytes": 347414,
+      "originalBytes": 592045,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/templates/03-5285e5e81a7a-960.webp",
+          "bytes": 146274
+        }
+      ]
+    },
+    {
+      "assetId": "templates/04",
+      "nodeId": "10:17539",
+      "nodeType": "RECTANGLE",
+      "scale": 2,
+      "src": "assets/projects/templates/04-fc97dfae79ec.webp",
+      "preview": "assets/projects/templates/04-fc97dfae79ec-960.webp",
+      "thumb": "assets/projects/templates/04-fc97dfae79ec-960.webp",
+      "width": 1920,
+      "height": 1200,
+      "bytes": 288030,
+      "originalBytes": 484546,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/templates/04-fc97dfae79ec-960.webp",
+          "bytes": 140706
+        }
+      ]
+    },
+    {
+      "assetId": "crm/card",
+      "nodeId": "11:53692",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/crm/card-86fb2adfbe9d.webp",
+      "preview": "assets/projects/crm/card-86fb2adfbe9d-960.webp",
+      "thumb": "assets/projects/crm/card-86fb2adfbe9d-480.webp",
+      "width": 1920,
+      "height": 1236,
+      "bytes": 472272,
+      "originalBytes": 826965,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 480,
+          "src": "assets/projects/crm/card-86fb2adfbe9d-480.webp",
+          "bytes": 79032
+        },
+        {
+          "width": 960,
+          "src": "assets/projects/crm/card-86fb2adfbe9d-960.webp",
+          "bytes": 205148
+        }
+      ]
+    },
+    {
+      "assetId": "crm/cover",
+      "nodeId": "8:8438",
+      "nodeType": "RECTANGLE",
+      "scale": 2,
+      "src": "assets/projects/crm/cover-1a723fb06b38.webp",
+      "preview": "assets/projects/crm/cover-1a723fb06b38-960.webp",
+      "thumb": "assets/projects/crm/cover-1a723fb06b38-960.webp",
+      "width": 1920,
+      "height": 1298,
+      "bytes": 485802,
+      "originalBytes": 850597,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/cover-1a723fb06b38-960.webp",
+          "bytes": 210488
+        }
+      ]
+    },
+    {
+      "assetId": "crm/01",
+      "nodeId": "15:63778",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/crm/01-547f4d62c7e3.webp",
+      "preview": "assets/projects/crm/01-547f4d62c7e3-960.webp",
+      "thumb": "assets/projects/crm/01-547f4d62c7e3-960.webp",
+      "width": 1920,
+      "height": 4984,
+      "bytes": 4119782,
+      "originalBytes": 6102814,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/01-547f4d62c7e3-960.webp",
+          "bytes": 1148708
+        }
+      ]
+    },
+    {
+      "assetId": "crm/02",
+      "nodeId": "15:63801",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/crm/02-35c70a754ef6.webp",
+      "preview": "assets/projects/crm/02-35c70a754ef6-960.webp",
+      "thumb": "assets/projects/crm/02-35c70a754ef6-960.webp",
+      "width": 1920,
+      "height": 3163,
+      "bytes": 1684214,
+      "originalBytes": 2709001,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/02-35c70a754ef6-960.webp",
+          "bytes": 570266
+        }
+      ]
+    },
+    {
+      "assetId": "crm/03",
+      "nodeId": "15:63817",
+      "nodeType": "FRAME",
+      "scale": 2,
+      "src": "assets/projects/crm/03-e12842986a6d.webp",
+      "preview": "assets/projects/crm/03-e12842986a6d-960.webp",
+      "thumb": "assets/projects/crm/03-e12842986a6d-960.webp",
+      "width": 1920,
+      "height": 2486,
+      "bytes": 702206,
+      "originalBytes": 1193139,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/03-e12842986a6d-960.webp",
+          "bytes": 277986
+        }
+      ]
+    }
+  ],
+  "compression": "WebP lossless; visible RGBA pixels compared against 2× PNG exports"
+}
