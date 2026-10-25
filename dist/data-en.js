@@ -19,9 +19,12 @@ window.CV_EN = {
   templates:{title:'Template library',subtitle:'From idea to page',type:'Design resource · Figma',wordmark:'100+\nblocks',linkLabel:'Explore the library',role:'Collection author',intro:'A Figma library of 100+ blocks for building pages faster, with complete page examples and a collection of stock resources.',task:'Simplify page assembly and give designers a flexible foundation for new projects.',solution:'Auto Layout, components and styles make pages easy to assemble and adapt. The collection was sold through designer Alesya Kutuzova’s blog.',tags:['Figma','Auto Layout','Components']}
  }[p.id]})),
  otherProjects:[
+  {title:'FC Akron · Matchday',url:'https://matchday.fcakron.ru/',description:'Fan website · Page design for matches, tickets and stadium information'},
+  {title:'Rasprav Krylya · Massage Studio',url:'https://dev.rasprav.ru/',description:'Massage studio · Website design and front-end development for services, pricing and therapist profiles'},
+  {title:'Krymskie · Seaside Summer Camp',url:'https://krymskie.com/',description:'Tilda · Design, fully responsive implementation and website setup'},
+  {title:'KGLicense · US Beauty Licences',url:'https://kglicense.com/',description:'Tilda · Design, fully responsive implementation and website setup'},
   {title:'Garage Number One',url:'https://garagenumberone.ru/',description:'WordPress · Implementation with a developer, administration, WhatsApp API and reCAPTCHA'},
-  {title:'Manifest Design',url:'https://pavelgo.tilda.ws/',description:'Tilda · Research, prototypes, design and collaborative implementation'},
-  {title:'Laleli Flowers',url:'https://laleliflowers.ru/',description:'VamShop · Research, prototypes, design and responsive layouts'}
+  {title:'Manifest Design',url:'https://pavelgo.tilda.ws/',description:'Tilda · Research, prototypes, design and collaborative implementation'}
  ],
  visuals:CV.visuals.map((v,i)=>({...v,title:`Visual ${String(i+1).padStart(2,'0')}`}))
 };

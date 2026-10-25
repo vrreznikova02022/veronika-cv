@@ -19,9 +19,12 @@ const CV = {
     {id:'templates',title:'Библиотека шаблонов',subtitle:'От идеи к странице',category:'Материалы',type:'Дизайн-ресурс · Figma',cover:null,wordmark:'100+\nблоков',bg:'#e0e6d2',url:'https://kutuzova-webdesign.ru/shablon',linkLabel:'Посмотреть библиотеку',role:'Автор коллекции',intro:'Библиотека из 100+ блоков для быстрой сборки страниц в Figma. Готовые примеры страниц и база стоковых материалов.',task:'Упростить сборку страниц и дать дизайнерам гибкую основу для новых проектов.',solution:'Auto Layout, компоненты и стили позволяют собирать и адаптировать страницы. Коллекция продавалась через блог дизайнера Алеси Кутузовой.',tags:['Figma','Auto Layout','Компоненты']}
   ],
   otherProjects:[
+    {title:'ФК «Акрон» · Matchday',url:'https://matchday.fcakron.ru/',description:'Сайт для болельщиков · Дизайн страниц с матчами, билетами и информацией о стадионе'},
+    {title:'Расправь крылья',url:'https://dev.rasprav.ru/',description:'Массажная студия · Дизайн и вёрстка сайта с услугами, ценами и информацией о мастерах'},
+    {title:'Krymskie · Детский лагерь на море',url:'https://krymskie.com/',description:'Tilda · Дизайн, полная адаптивная вёрстка проекта и настройка сайта'},
+    {title:'KGLicense · Бьюти-лицензии в США',url:'https://kglicense.com/',description:'Tilda · Дизайн, полная адаптивная вёрстка проекта и настройка сайта'},
     {title:'Garage Number One',url:'https://garagenumberone.ru/',description:'WordPress · Реализация с разработчиком, админ-панель, WhatsApp API и reCAPTCHA'},
-    {title:'Манифест. Дизайн',url:'https://pavelgo.tilda.ws/',description:'Tilda · Исследование, прототипы, дизайн и совместная реализация'},
-    {title:'Laleli Flowers',url:'https://laleliflowers.ru/',description:'VamShop · Исследование, прототипы, дизайн и адаптивные макеты'}
+    {title:'Манифест. Дизайн',url:'https://pavelgo.tilda.ws/',description:'Tilda · Исследование, прототипы, дизайн и совместная реализация'}
   ]
 };
 
