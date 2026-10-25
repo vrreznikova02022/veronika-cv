@@ -62,7 +62,7 @@ window.localizeUI=function(root=document){
  while(node=walker.nextNode()){
   if(node.parentElement?.closest('script,style,[data-no-translate]'))continue;
   if(!textOrigins.has(node))textOrigins.set(node,node.textContent);
-  const value=textOrigins.get(node);node.textContent=en?translatedText(value):value;
+  const value=textOrigins.get(node),localized=en?translatedText(value):value;node.textContent=window.cvTypography?window.cvTypography(localized,window.cvLocale):localized;
  }
  for(const el of root.querySelectorAll('[aria-label],[placeholder],[alt],[title]')){
   let originals=attributeOrigins.get(el);if(!originals){originals={};attributeOrigins.set(el,originals)}

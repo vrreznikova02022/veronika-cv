@@ -54,3 +54,7 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline-color:#6570c4}
 /* Project catalogue and Figma presentations, version 7. */
 .project-visual{aspect-ratio:960/618}.filters{flex-wrap:wrap;gap:3px}.filters button{white-space:nowrap}.case-head>div{min-width:0}.case-head h2{overflow-wrap:anywhere}.case-subtitle{font-size:15px;line-height:1.5;color:var(--muted);margin:12px 0 0;max-width:48em}.case-cover-button{padding:0;border:0;background:transparent;cursor:zoom-in}.gallery .case-image+.case-image{margin-top:0}.gallery .case-image img{aspect-ratio:auto}.case-image{cursor:zoom-in}
 @media(max-width:640px){.filters{justify-content:flex-start}.filters button{flex:0 0 auto}.project-meta{align-items:flex-start;gap:10px}.project-meta h3{min-width:0}.project-meta small{flex-shrink:0}.case-subtitle{font-size:13px}}
+
+/* Case text and title-aligned actions, version 8. */
+.case-head{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;column-gap:24px;row-gap:0}.case-head>.case-type{grid-column:1/-1;grid-row:1}.case-head>h2{grid-column:1;grid-row:2;min-width:0}.case-head>.primary{grid-column:2;grid-row:2;align-self:center;justify-self:end}.case-head>.case-subtitle{grid-column:1/-1;grid-row:3}.case-intro.case-intro-wide{max-width:none;width:100%}
+@media(max-width:640px){.case-head{grid-template-columns:minmax(0,1fr);gap:0}.case-head>.primary{grid-column:1;grid-row:4;justify-self:start;margin-top:15px}}
