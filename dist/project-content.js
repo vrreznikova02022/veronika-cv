@@ -767,8 +767,8 @@
     "solution": "Разработала 100+ блоков с Auto Layout, компонентами и стилями. Подготовила примеры страниц, которые показывают разные способы сочетания блоков. Систематизировала ссылки на логотипы, мокапы, анимации, иконки, референсы и другие ресурсы. Добавила вопросы для брифа. Библиотека продавалась через блог дизайнера Алеси Кутузовой.",
     "url": "https://kutuzova-webdesign.ru/shablon",
     "linkLabel": "Посмотреть библиотеку",
-    "cover": "assets/projects/templates/card-f3c6c59ad2cd-480.webp",
-    "coverSrcset": "assets/projects/templates/card-f3c6c59ad2cd-480.webp 480w, assets/projects/templates/card-f3c6c59ad2cd-960.webp 960w, assets/projects/templates/card-f3c6c59ad2cd.webp 1920w",
+    "cover": "assets/projects/templates/card-9ef7d536bcd9-480.webp",
+    "coverSrcset": "assets/projects/templates/card-9ef7d536bcd9-480.webp 480w, assets/projects/templates/card-9ef7d536bcd9-960.webp 960w, assets/projects/templates/card-9ef7d536bcd9.webp 1920w",
     "coverWidth": 1920,
     "coverHeight": 1236,
     "caseCover": {
@@ -1666,8 +1666,8 @@
     "solution": "Designed 100+ blocks using Auto Layout, components and styles. Built example pages demonstrating different block combinations. Organised links to logos, mockups, animations, icons, references and other resources, and added briefing questions. The library was sold through designer Alesya Kutuzova’s blog.",
     "url": "https://kutuzova-webdesign.ru/shablon",
     "linkLabel": "Explore the library",
-    "cover": "assets/projects/templates/card-f3c6c59ad2cd-480.webp",
-    "coverSrcset": "assets/projects/templates/card-f3c6c59ad2cd-480.webp 480w, assets/projects/templates/card-f3c6c59ad2cd-960.webp 960w, assets/projects/templates/card-f3c6c59ad2cd.webp 1920w",
+    "cover": "assets/projects/templates/card-9ef7d536bcd9-480.webp",
+    "coverSrcset": "assets/projects/templates/card-9ef7d536bcd9-480.webp 480w, assets/projects/templates/card-9ef7d536bcd9-960.webp 960w, assets/projects/templates/card-9ef7d536bcd9.webp 1920w",
     "coverWidth": 1920,
     "coverHeight": 1236,
     "caseCover": {
