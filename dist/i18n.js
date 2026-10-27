@@ -13,7 +13,7 @@ const translations={
  'Ничего не нашлось':'No projects found','Попробуйте другое название или выберите все проекты.':'Try another name or select all projects.','Показать все проекты':'Show all projects',
  'Ещё реализованные сайты':'More live websites','Авторство Kutuzova.studio':'Credits: Kutuzova.studio',
  'Дизайн, управление проектами и обучение.':'Design, project management and education.','Резюме для печати ↗':'Print-friendly CV ↗',
- 'Образование':'Education','Белорусский государственный университет':'Belarusian State University','Факультет социальных коммуникаций · Бакалавриат':'Faculty of Social Communications · Bachelor’s degree','Веб-дизайн и UI/UX-дизайн · Курс':'Web design and UI/UX design · Course',
+ 'Образование':'Education','Белорусский государственный университет':'Belarusian State University','Факультет социальных коммуникаций · Неоконченное высшее':'Faculty of Social Communications · Incomplete higher education','Веб-дизайн и UI/UX-дизайн · Курс':'Web design and UI/UX design · Course',
  'Навыки и инструменты':'Skills & tools','Системный подход. Внимание к деталям.':'A systematic approach. Attention to detail.',
  'Соединяю исследование, логику и визуальный язык. Умею не только создавать макеты, но и выстраивать процесс вокруг них.':'I connect research, logic and visual language, designing both interfaces and the process around them.',
  'Исследую и проектирую':'Research & planning','Анализ аудитории, рынка и конкурентов, карты эмпатии, User Flow и CJM. Информационная архитектура, wireframes и интерактивные прототипы.':'Audience, market and competitor research, empathy maps, user flows and customer journey maps. Information architecture, wireframes and interactive prototypes.',
