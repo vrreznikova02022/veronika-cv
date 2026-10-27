@@ -2,7 +2,7 @@ window.CV_RU=structuredClone(CV);
 const translations={
  'Вероника Резникова':'Veronika Reznikova','Вероника':'Veronika','Резникова':'Reznikova','Веб-дизайнер':'Web designer',
  'Обо мне':'About me','Проекты':'Projects','Визуалы':'Visuals','Опыт работы':'Experience','Навыки и AI':'Skills & AI','Контакты':'Contact','Портфолио':'Portfolio','Резюме':'CV',
- 'Привет, я':'Hi, I’m','25 лет, веб-дизайнер и арт-директор.':'25 years old, web designer and art director.',
+ 'Привет, я':'Hi, I’m','26 лет, веб-дизайнер и арт-директор.':'26 years old, web designer and art director.',
  'Создаю сайты и интерфейсы с вниманием к опыту и эстетике.':'I design websites and interfaces with care for experience and aesthetics.',
  'Смотреть проекты':'View projects','Обсудить вакансию':'Discuss a role','Дизайн и команда':'Design & teamwork',
  'Проектирую сайты, сервисы и приложения. Работала арт-директором в агентстве, координировала дизайнеров и кураторов. Использую AI в работе и оптимизирую процессы.':'I design websites, services and applications. My experience includes agency art direction and coordinating designers and mentors. I use AI in my work and optimise processes.',
