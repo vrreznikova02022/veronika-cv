@@ -7,10 +7,10 @@
     "view",
     "nellis",
     "apes",
+    "crm",
     "krugosvetka",
     "soft-blue",
-    "templates",
-    "crm"
+    "templates"
   ],
   "projects": [
     {
@@ -34,6 +34,11 @@
       "title": "Pickleball APES"
     },
     {
+      "id": "crm",
+      "nodeId": "8:8377",
+      "title": "CRM Software"
+    },
+    {
       "id": "krugosvetka",
       "nodeId": "10:24766",
       "title": "Кругосветка · Редизайн сайта"
@@ -47,11 +52,6 @@
       "id": "templates",
       "nodeId": "8:8813",
       "title": "Библиотека шаблонов для дизайнеров"
-    },
-    {
-      "id": "crm",
-      "nodeId": "8:8377",
-      "title": "CRM Software"
     }
   ],
   "exports": [
@@ -1303,74 +1303,6 @@
       ]
     },
     {
-      "assetId": "soft-blue/card",
-      "nodeId": "11:63664",
-      "nodeType": "FRAME",
-      "scale": 2,
-      "src": "assets/projects/soft-blue/card-484e8ae96a29.webp",
-      "preview": "assets/projects/soft-blue/card-484e8ae96a29-960.webp",
-      "thumb": "assets/projects/soft-blue/card-484e8ae96a29-480.webp",
-      "width": 1920,
-      "height": 1236,
-      "bytes": 2186130,
-      "originalBytes": 3504966,
-      "pixelIdentical": true,
-      "variants": [
-        {
-          "width": 480,
-          "src": "assets/projects/soft-blue/card-484e8ae96a29-480.webp",
-          "bytes": 164030
-        },
-        {
-          "width": 960,
-          "src": "assets/projects/soft-blue/card-484e8ae96a29-960.webp",
-          "bytes": 598678
-        }
-      ]
-    },
-    {
-      "assetId": "soft-blue/cover",
-      "nodeId": "11:53972",
-      "nodeType": "FRAME",
-      "scale": 2,
-      "src": "assets/projects/soft-blue/cover-30bae57a34f6.webp",
-      "preview": "assets/projects/soft-blue/cover-30bae57a34f6-960.webp",
-      "thumb": "assets/projects/soft-blue/cover-30bae57a34f6-960.webp",
-      "width": 1920,
-      "height": 1499,
-      "bytes": 2649854,
-      "originalBytes": 4248591,
-      "pixelIdentical": true,
-      "variants": [
-        {
-          "width": 960,
-          "src": "assets/projects/soft-blue/cover-30bae57a34f6-960.webp",
-          "bytes": 725156
-        }
-      ]
-    },
-    {
-      "assetId": "soft-blue/01",
-      "nodeId": "11:53714",
-      "nodeType": "FRAME",
-      "scale": 2,
-      "src": "assets/projects/soft-blue/01-2e3090252fcf.webp",
-      "preview": "assets/projects/soft-blue/01-2e3090252fcf-960.webp",
-      "thumb": "assets/projects/soft-blue/01-2e3090252fcf-960.webp",
-      "width": 1920,
-      "height": 7461,
-      "bytes": 9203680,
-      "originalBytes": 14532935,
-      "pixelIdentical": true,
-      "variants": [
-        {
-          "width": 960,
-          "src": "assets/projects/soft-blue/01-2e3090252fcf-960.webp",
-          "bytes": 2472884
-        }
-      ]
-    },
-    {
       "assetId": "templates/card",
       "nodeId": "24:79874",
       "nodeType": "FRAME",
@@ -1506,6 +1438,314 @@
       ]
     },
     {
+      "assetId": "crm/cover",
+      "nodeId": "61:12533",
+      "nodeType": "FRAME",
+      "name": "Frame 2742",
+      "scale": 2,
+      "src": "assets/projects/crm/cover-14ce85e504b7.webp",
+      "preview": "assets/projects/crm/cover-14ce85e504b7-960.webp",
+      "thumb": "assets/projects/crm/cover-14ce85e504b7-960.webp",
+      "width": 1920,
+      "height": 1485,
+      "bytes": 1710636,
+      "originalBytes": 2738123,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/cover-14ce85e504b7-960.webp",
+          "bytes": 541088
+        }
+      ]
+    },
+    {
+      "assetId": "crm/01",
+      "nodeId": "61:10405",
+      "nodeType": "FRAME",
+      "name": "2",
+      "scale": 2,
+      "src": "assets/projects/crm/01-9fa3801c28bb.webp",
+      "preview": "assets/projects/crm/01-9fa3801c28bb-960.webp",
+      "thumb": "assets/projects/crm/01-9fa3801c28bb-960.webp",
+      "width": 1920,
+      "height": 2764,
+      "bytes": 64498,
+      "originalBytes": 176653,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/01-9fa3801c28bb-960.webp",
+          "bytes": 107068
+        }
+      ]
+    },
+    {
+      "assetId": "crm/02",
+      "nodeId": "61:10503",
+      "nodeType": "FRAME",
+      "name": "3",
+      "scale": 2,
+      "src": "assets/projects/crm/02-33895bc11404.webp",
+      "preview": "assets/projects/crm/02-33895bc11404-960.webp",
+      "thumb": "assets/projects/crm/02-33895bc11404-960.webp",
+      "width": 1920,
+      "height": 4984,
+      "bytes": 3902012,
+      "originalBytes": 5679140,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/02-33895bc11404-960.webp",
+          "bytes": 1157784
+        }
+      ]
+    },
+    {
+      "assetId": "crm/03",
+      "nodeId": "61:11275",
+      "nodeType": "FRAME",
+      "name": "4",
+      "scale": 2,
+      "src": "assets/projects/crm/03-dcb7208c64f9.webp",
+      "preview": "assets/projects/crm/03-dcb7208c64f9-960.webp",
+      "thumb": "assets/projects/crm/03-dcb7208c64f9-960.webp",
+      "width": 1920,
+      "height": 3363,
+      "bytes": 1580948,
+      "originalBytes": 2499637,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/03-dcb7208c64f9-960.webp",
+          "bytes": 622632
+        }
+      ]
+    },
+    {
+      "assetId": "crm/04",
+      "nodeId": "61:11624",
+      "nodeType": "FRAME",
+      "name": "5",
+      "scale": 2,
+      "src": "assets/projects/crm/04-72de4add212a.webp",
+      "preview": "assets/projects/crm/04-72de4add212a-960.webp",
+      "thumb": "assets/projects/crm/04-72de4add212a-960.webp",
+      "width": 1920,
+      "height": 2733,
+      "bytes": 1885206,
+      "originalBytes": 2931920,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/04-72de4add212a-960.webp",
+          "bytes": 649490
+        }
+      ]
+    },
+    {
+      "assetId": "crm/05",
+      "nodeId": "61:11787",
+      "nodeType": "FRAME",
+      "name": "6",
+      "scale": 2,
+      "src": "assets/projects/crm/05-2ae7c91eeac6.webp",
+      "preview": "assets/projects/crm/05-2ae7c91eeac6-960.webp",
+      "thumb": "assets/projects/crm/05-2ae7c91eeac6-960.webp",
+      "width": 1920,
+      "height": 2826,
+      "bytes": 1236458,
+      "originalBytes": 1910646,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/05-2ae7c91eeac6-960.webp",
+          "bytes": 532522
+        }
+      ]
+    },
+    {
+      "assetId": "crm/06",
+      "nodeId": "61:12034",
+      "nodeType": "FRAME",
+      "name": "7",
+      "scale": 2,
+      "src": "assets/projects/crm/06-c9a3b51c4846.webp",
+      "preview": "assets/projects/crm/06-c9a3b51c4846-960.webp",
+      "thumb": "assets/projects/crm/06-c9a3b51c4846-960.webp",
+      "width": 1920,
+      "height": 1546,
+      "bytes": 1687290,
+      "originalBytes": 2654947,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/06-c9a3b51c4846-960.webp",
+          "bytes": 538950
+        }
+      ]
+    },
+    {
+      "assetId": "crm/07",
+      "nodeId": "61:12044",
+      "nodeType": "FRAME",
+      "name": "8",
+      "scale": 2,
+      "src": "assets/projects/crm/07-e08b95244931.webp",
+      "preview": "assets/projects/crm/07-e08b95244931-960.webp",
+      "thumb": "assets/projects/crm/07-e08b95244931-960.webp",
+      "width": 1920,
+      "height": 2687,
+      "bytes": 72674,
+      "originalBytes": 174431,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/07-e08b95244931-960.webp",
+          "bytes": 72580
+        }
+      ]
+    },
+    {
+      "assetId": "crm/08",
+      "nodeId": "61:12179",
+      "nodeType": "FRAME",
+      "name": "9",
+      "scale": 2,
+      "src": "assets/projects/crm/08-c4e7ba12b6f6.webp",
+      "preview": "assets/projects/crm/08-c4e7ba12b6f6-960.webp",
+      "thumb": "assets/projects/crm/08-c4e7ba12b6f6-960.webp",
+      "width": 1920,
+      "height": 2494,
+      "bytes": 76308,
+      "originalBytes": 223120,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/crm/08-c4e7ba12b6f6-960.webp",
+          "bytes": 96666
+        }
+      ]
+    },
+    {
+      "assetId": "soft-blue/cover",
+      "nodeId": "11:53972",
+      "nodeType": "FRAME",
+      "name": "Превью",
+      "scale": 2,
+      "src": "assets/projects/soft-blue/cover-30bae57a34f6.webp",
+      "preview": "assets/projects/soft-blue/cover-30bae57a34f6-960.webp",
+      "thumb": "assets/projects/soft-blue/cover-30bae57a34f6-960.webp",
+      "width": 1920,
+      "height": 1499,
+      "bytes": 2649854,
+      "originalBytes": 4248591,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/soft-blue/cover-30bae57a34f6-960.webp",
+          "bytes": 725156
+        }
+      ]
+    },
+    {
+      "assetId": "soft-blue/01",
+      "nodeId": "11:54000",
+      "nodeType": "FRAME",
+      "name": "Frame 19",
+      "scale": 2,
+      "src": "assets/projects/soft-blue/01-e812604e9994.webp",
+      "preview": "assets/projects/soft-blue/01-e812604e9994-960.webp",
+      "thumb": "assets/projects/soft-blue/01-e812604e9994-960.webp",
+      "width": 1920,
+      "height": 911,
+      "bytes": 337448,
+      "originalBytes": 589766,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/soft-blue/01-e812604e9994-960.webp",
+          "bytes": 115718
+        }
+      ]
+    },
+    {
+      "assetId": "soft-blue/02",
+      "nodeId": "11:54007",
+      "nodeType": "FRAME",
+      "name": "Frame 2",
+      "scale": 2,
+      "src": "assets/projects/soft-blue/02-d6b176b9ec55.webp",
+      "preview": "assets/projects/soft-blue/02-d6b176b9ec55-960.webp",
+      "thumb": "assets/projects/soft-blue/02-d6b176b9ec55-960.webp",
+      "width": 1920,
+      "height": 951,
+      "bytes": 629220,
+      "originalBytes": 1082080,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/soft-blue/02-d6b176b9ec55-960.webp",
+          "bytes": 184842
+        }
+      ]
+    },
+    {
+      "assetId": "soft-blue/03",
+      "nodeId": "11:54026",
+      "nodeType": "FRAME",
+      "name": "Frame 2147226800",
+      "scale": 2,
+      "src": "assets/projects/soft-blue/03-bf2333c7491c.webp",
+      "preview": "assets/projects/soft-blue/03-bf2333c7491c-960.webp",
+      "thumb": "assets/projects/soft-blue/03-bf2333c7491c-960.webp",
+      "width": 1920,
+      "height": 3110,
+      "bytes": 4433902,
+      "originalBytes": 7060993,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/soft-blue/03-bf2333c7491c-960.webp",
+          "bytes": 1117444
+        }
+      ]
+    },
+    {
+      "assetId": "soft-blue/04",
+      "nodeId": "11:54041",
+      "nodeType": "FRAME",
+      "name": "Frame 3",
+      "scale": 2,
+      "src": "assets/projects/soft-blue/04-97cdaaca00b4.webp",
+      "preview": "assets/projects/soft-blue/04-97cdaaca00b4-960.webp",
+      "thumb": "assets/projects/soft-blue/04-97cdaaca00b4-960.webp",
+      "width": 1920,
+      "height": 2489,
+      "bytes": 3695774,
+      "originalBytes": 5794675,
+      "pixelIdentical": true,
+      "variants": [
+        {
+          "width": 960,
+          "src": "assets/projects/soft-blue/04-97cdaaca00b4-960.webp",
+          "bytes": 1019994
+        }
+      ]
+    },
+    {
       "assetId": "crm/card",
       "nodeId": "11:53692",
       "nodeType": "FRAME",
@@ -1532,89 +1772,32 @@
       ]
     },
     {
-      "assetId": "crm/cover",
-      "nodeId": "8:8438",
-      "nodeType": "RECTANGLE",
-      "scale": 2,
-      "src": "assets/projects/crm/cover-1a723fb06b38.webp",
-      "preview": "assets/projects/crm/cover-1a723fb06b38-960.webp",
-      "thumb": "assets/projects/crm/cover-1a723fb06b38-960.webp",
-      "width": 1920,
-      "height": 1298,
-      "bytes": 485802,
-      "originalBytes": 850597,
-      "pixelIdentical": true,
-      "variants": [
-        {
-          "width": 960,
-          "src": "assets/projects/crm/cover-1a723fb06b38-960.webp",
-          "bytes": 210488
-        }
-      ]
-    },
-    {
-      "assetId": "crm/01",
-      "nodeId": "15:63778",
+      "assetId": "soft-blue/card",
+      "nodeId": "11:63664",
       "nodeType": "FRAME",
       "scale": 2,
-      "src": "assets/projects/crm/01-547f4d62c7e3.webp",
-      "preview": "assets/projects/crm/01-547f4d62c7e3-960.webp",
-      "thumb": "assets/projects/crm/01-547f4d62c7e3-960.webp",
+      "src": "assets/projects/soft-blue/card-484e8ae96a29.webp",
+      "preview": "assets/projects/soft-blue/card-484e8ae96a29-960.webp",
+      "thumb": "assets/projects/soft-blue/card-484e8ae96a29-480.webp",
       "width": 1920,
-      "height": 4984,
-      "bytes": 4119782,
-      "originalBytes": 6102814,
+      "height": 1236,
+      "bytes": 2186130,
+      "originalBytes": 3504966,
       "pixelIdentical": true,
       "variants": [
         {
-          "width": 960,
-          "src": "assets/projects/crm/01-547f4d62c7e3-960.webp",
-          "bytes": 1148708
-        }
-      ]
-    },
-    {
-      "assetId": "crm/02",
-      "nodeId": "15:63801",
-      "nodeType": "FRAME",
-      "scale": 2,
-      "src": "assets/projects/crm/02-35c70a754ef6.webp",
-      "preview": "assets/projects/crm/02-35c70a754ef6-960.webp",
-      "thumb": "assets/projects/crm/02-35c70a754ef6-960.webp",
-      "width": 1920,
-      "height": 3163,
-      "bytes": 1684214,
-      "originalBytes": 2709001,
-      "pixelIdentical": true,
-      "variants": [
+          "width": 480,
+          "src": "assets/projects/soft-blue/card-484e8ae96a29-480.webp",
+          "bytes": 164030
+        },
         {
           "width": 960,
-          "src": "assets/projects/crm/02-35c70a754ef6-960.webp",
-          "bytes": 570266
-        }
-      ]
-    },
-    {
-      "assetId": "crm/03",
-      "nodeId": "15:63817",
-      "nodeType": "FRAME",
-      "scale": 2,
-      "src": "assets/projects/crm/03-e12842986a6d.webp",
-      "preview": "assets/projects/crm/03-e12842986a6d-960.webp",
-      "thumb": "assets/projects/crm/03-e12842986a6d-960.webp",
-      "width": 1920,
-      "height": 2486,
-      "bytes": 702206,
-      "originalBytes": 1193139,
-      "pixelIdentical": true,
-      "variants": [
-        {
-          "width": 960,
-          "src": "assets/projects/crm/03-e12842986a6d-960.webp",
-          "bytes": 277986
+          "src": "assets/projects/soft-blue/card-484e8ae96a29-960.webp",
+          "bytes": 598678
         }
       ]
     }
   ],
-  "compression": "WebP lossless; visible RGBA pixels compared against 2× PNG exports"
+  "compression": "WebP lossless; visible RGBA pixels compared against 2× PNG exports",
+  "updatedOn": "2026-10-29"
 }

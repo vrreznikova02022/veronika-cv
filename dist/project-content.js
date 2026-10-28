@@ -1,6 +1,6 @@
-/* Figma Desktop Bridge import, 2026-10-25.
-   Project order and covers: section 15:63837 / frame 11:53694.
-   Presentation frames are raster exports; lossless WebP masters retain PNG pixels. */
+/* Figma Desktop Bridge sync, 2026-10-29.
+   Project order: frame 11:53694. CRM and SOFT BLUE image blocks refreshed.
+   Lossless WebP masters verified against 2× PNG exports. */
 (() => {
  const ru=[
   {
@@ -514,6 +514,119 @@
     ]
   },
   {
+    "id": "crm",
+    "title": "CRM Software",
+    "subtitle": "Сложное — понятно",
+    "type": "Веб-сервис · UI/UX-дизайн",
+    "category": "Интерфейсы",
+    "intro": "Интерфейс CRM-системы. Проект о работе с данными и визуальной организации рабочего пространства.",
+    "tags": [
+      "UI-дизайн",
+      "CRM",
+      "Веб-сервис"
+    ],
+    "bg": "#e5eaf5",
+    "role": "Дизайн интерфейсов",
+    "task": "Разработать визуальный интерфейс сервиса с понятной структурой информации.",
+    "solution": "Основные экраны собраны в галерее: композиция, типографика и компоненты интерфейса. Полный проект — на Behance.",
+    "url": "https://www.behance.net/gallery/157902309/Rezileads-CRM-software",
+    "linkLabel": "Полный кейс на Behance",
+    "cover": "assets/projects/crm/card-86fb2adfbe9d-480.webp",
+    "coverSrcset": "assets/projects/crm/card-86fb2adfbe9d-480.webp 480w, assets/projects/crm/card-86fb2adfbe9d-960.webp 960w, assets/projects/crm/card-86fb2adfbe9d.webp 1920w",
+    "coverWidth": 1920,
+    "coverHeight": 1236,
+    "caseCover": {
+      "src": "assets/projects/crm/cover-14ce85e504b7.webp",
+      "preview": "assets/projects/crm/cover-14ce85e504b7-960.webp",
+      "thumb": "assets/projects/crm/cover-14ce85e504b7-960.webp",
+      "width": 1920,
+      "height": 1485,
+      "srcset": "assets/projects/crm/cover-14ce85e504b7-960.webp 960w, assets/projects/crm/cover-14ce85e504b7.webp 1920w"
+    },
+    "content": [
+      {
+        "type": "image",
+        "src": "assets/projects/crm/01-9fa3801c28bb.webp",
+        "preview": "assets/projects/crm/01-9fa3801c28bb-960.webp",
+        "thumb": "assets/projects/crm/01-9fa3801c28bb-960.webp",
+        "width": 1920,
+        "height": 2764,
+        "srcset": "assets/projects/crm/01-9fa3801c28bb-960.webp 960w, assets/projects/crm/01-9fa3801c28bb.webp 1920w",
+        "alt": "CRM Software — иллюстрация 1"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/02-33895bc11404.webp",
+        "preview": "assets/projects/crm/02-33895bc11404-960.webp",
+        "thumb": "assets/projects/crm/02-33895bc11404-960.webp",
+        "width": 1920,
+        "height": 4984,
+        "srcset": "assets/projects/crm/02-33895bc11404-960.webp 960w, assets/projects/crm/02-33895bc11404.webp 1920w",
+        "alt": "CRM Software — иллюстрация 2"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/03-dcb7208c64f9.webp",
+        "preview": "assets/projects/crm/03-dcb7208c64f9-960.webp",
+        "thumb": "assets/projects/crm/03-dcb7208c64f9-960.webp",
+        "width": 1920,
+        "height": 3363,
+        "srcset": "assets/projects/crm/03-dcb7208c64f9-960.webp 960w, assets/projects/crm/03-dcb7208c64f9.webp 1920w",
+        "alt": "CRM Software — иллюстрация 3"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/04-72de4add212a.webp",
+        "preview": "assets/projects/crm/04-72de4add212a-960.webp",
+        "thumb": "assets/projects/crm/04-72de4add212a-960.webp",
+        "width": 1920,
+        "height": 2733,
+        "srcset": "assets/projects/crm/04-72de4add212a-960.webp 960w, assets/projects/crm/04-72de4add212a.webp 1920w",
+        "alt": "CRM Software — иллюстрация 4"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/05-2ae7c91eeac6.webp",
+        "preview": "assets/projects/crm/05-2ae7c91eeac6-960.webp",
+        "thumb": "assets/projects/crm/05-2ae7c91eeac6-960.webp",
+        "width": 1920,
+        "height": 2826,
+        "srcset": "assets/projects/crm/05-2ae7c91eeac6-960.webp 960w, assets/projects/crm/05-2ae7c91eeac6.webp 1920w",
+        "alt": "CRM Software — иллюстрация 5"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/06-c9a3b51c4846.webp",
+        "preview": "assets/projects/crm/06-c9a3b51c4846-960.webp",
+        "thumb": "assets/projects/crm/06-c9a3b51c4846-960.webp",
+        "width": 1920,
+        "height": 1546,
+        "srcset": "assets/projects/crm/06-c9a3b51c4846-960.webp 960w, assets/projects/crm/06-c9a3b51c4846.webp 1920w",
+        "alt": "CRM Software — иллюстрация 6"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/07-e08b95244931.webp",
+        "preview": "assets/projects/crm/07-e08b95244931-960.webp",
+        "thumb": "assets/projects/crm/07-e08b95244931-960.webp",
+        "width": 1920,
+        "height": 2687,
+        "srcset": "assets/projects/crm/07-e08b95244931-960.webp 960w, assets/projects/crm/07-e08b95244931.webp 1920w",
+        "alt": "CRM Software — иллюстрация 7"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/08-c4e7ba12b6f6.webp",
+        "preview": "assets/projects/crm/08-c4e7ba12b6f6-960.webp",
+        "thumb": "assets/projects/crm/08-c4e7ba12b6f6-960.webp",
+        "width": 1920,
+        "height": 2494,
+        "srcset": "assets/projects/crm/08-c4e7ba12b6f6-960.webp 960w, assets/projects/crm/08-c4e7ba12b6f6.webp 1920w",
+        "alt": "CRM Software — иллюстрация 8"
+      }
+    ]
+  },
+  {
     "id": "krugosvetka",
     "title": "Кругосветка · Редизайн сайта",
     "subtitle": "Многостраничный туристический сайт: от поиска тура до заявки",
@@ -739,13 +852,43 @@
     "content": [
       {
         "type": "image",
-        "src": "assets/projects/soft-blue/01-2e3090252fcf.webp",
-        "preview": "assets/projects/soft-blue/01-2e3090252fcf-960.webp",
-        "thumb": "assets/projects/soft-blue/01-2e3090252fcf-960.webp",
+        "src": "assets/projects/soft-blue/01-e812604e9994.webp",
+        "preview": "assets/projects/soft-blue/01-e812604e9994-960.webp",
+        "thumb": "assets/projects/soft-blue/01-e812604e9994-960.webp",
         "width": 1920,
-        "height": 7461,
-        "srcset": "assets/projects/soft-blue/01-2e3090252fcf-960.webp 960w, assets/projects/soft-blue/01-2e3090252fcf.webp 1920w",
+        "height": 911,
+        "srcset": "assets/projects/soft-blue/01-e812604e9994-960.webp 960w, assets/projects/soft-blue/01-e812604e9994.webp 1920w",
         "alt": "SOFT BLUE · AI-фэшн-визуал — иллюстрация 1"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/soft-blue/02-d6b176b9ec55.webp",
+        "preview": "assets/projects/soft-blue/02-d6b176b9ec55-960.webp",
+        "thumb": "assets/projects/soft-blue/02-d6b176b9ec55-960.webp",
+        "width": 1920,
+        "height": 951,
+        "srcset": "assets/projects/soft-blue/02-d6b176b9ec55-960.webp 960w, assets/projects/soft-blue/02-d6b176b9ec55.webp 1920w",
+        "alt": "SOFT BLUE · AI-фэшн-визуал — иллюстрация 2"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/soft-blue/03-bf2333c7491c.webp",
+        "preview": "assets/projects/soft-blue/03-bf2333c7491c-960.webp",
+        "thumb": "assets/projects/soft-blue/03-bf2333c7491c-960.webp",
+        "width": 1920,
+        "height": 3110,
+        "srcset": "assets/projects/soft-blue/03-bf2333c7491c-960.webp 960w, assets/projects/soft-blue/03-bf2333c7491c.webp 1920w",
+        "alt": "SOFT BLUE · AI-фэшн-визуал — иллюстрация 3"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/soft-blue/04-97cdaaca00b4.webp",
+        "preview": "assets/projects/soft-blue/04-97cdaaca00b4-960.webp",
+        "thumb": "assets/projects/soft-blue/04-97cdaaca00b4-960.webp",
+        "width": 1920,
+        "height": 2489,
+        "srcset": "assets/projects/soft-blue/04-97cdaaca00b4-960.webp 960w, assets/projects/soft-blue/04-97cdaaca00b4.webp 1920w",
+        "alt": "SOFT BLUE · AI-фэшн-визуал — иллюстрация 4"
       }
     ]
   },
@@ -834,69 +977,6 @@
         "height": 1200,
         "srcset": "assets/projects/templates/04-fc97dfae79ec-960.webp 960w, assets/projects/templates/04-fc97dfae79ec.webp 1920w",
         "alt": "Библиотека шаблонов для дизайнеров — иллюстрация 4"
-      }
-    ]
-  },
-  {
-    "id": "crm",
-    "title": "CRM Software",
-    "subtitle": "Сложное — понятно",
-    "type": "Веб-сервис · UI/UX-дизайн",
-    "category": "Интерфейсы",
-    "intro": "Интерфейс CRM-системы. Проект о работе с данными и визуальной организации рабочего пространства.",
-    "tags": [
-      "UI-дизайн",
-      "CRM",
-      "Веб-сервис"
-    ],
-    "bg": "#e5eaf5",
-    "role": "Дизайн интерфейсов",
-    "task": "Разработать визуальный интерфейс сервиса с понятной структурой информации.",
-    "solution": "Основные экраны собраны в галерее: композиция, типографика и компоненты интерфейса. Полный проект — на Behance.",
-    "url": "https://www.behance.net/gallery/157902309/Rezileads-CRM-software",
-    "linkLabel": "Полный кейс на Behance",
-    "cover": "assets/projects/crm/card-86fb2adfbe9d-480.webp",
-    "coverSrcset": "assets/projects/crm/card-86fb2adfbe9d-480.webp 480w, assets/projects/crm/card-86fb2adfbe9d-960.webp 960w, assets/projects/crm/card-86fb2adfbe9d.webp 1920w",
-    "coverWidth": 1920,
-    "coverHeight": 1236,
-    "caseCover": {
-      "src": "assets/projects/crm/cover-1a723fb06b38.webp",
-      "preview": "assets/projects/crm/cover-1a723fb06b38-960.webp",
-      "thumb": "assets/projects/crm/cover-1a723fb06b38-960.webp",
-      "width": 1920,
-      "height": 1298,
-      "srcset": "assets/projects/crm/cover-1a723fb06b38-960.webp 960w, assets/projects/crm/cover-1a723fb06b38.webp 1920w"
-    },
-    "content": [
-      {
-        "type": "image",
-        "src": "assets/projects/crm/01-547f4d62c7e3.webp",
-        "preview": "assets/projects/crm/01-547f4d62c7e3-960.webp",
-        "thumb": "assets/projects/crm/01-547f4d62c7e3-960.webp",
-        "width": 1920,
-        "height": 4984,
-        "srcset": "assets/projects/crm/01-547f4d62c7e3-960.webp 960w, assets/projects/crm/01-547f4d62c7e3.webp 1920w",
-        "alt": "CRM Software — иллюстрация 1"
-      },
-      {
-        "type": "image",
-        "src": "assets/projects/crm/02-35c70a754ef6.webp",
-        "preview": "assets/projects/crm/02-35c70a754ef6-960.webp",
-        "thumb": "assets/projects/crm/02-35c70a754ef6-960.webp",
-        "width": 1920,
-        "height": 3163,
-        "srcset": "assets/projects/crm/02-35c70a754ef6-960.webp 960w, assets/projects/crm/02-35c70a754ef6.webp 1920w",
-        "alt": "CRM Software — иллюстрация 2"
-      },
-      {
-        "type": "image",
-        "src": "assets/projects/crm/03-e12842986a6d.webp",
-        "preview": "assets/projects/crm/03-e12842986a6d-960.webp",
-        "thumb": "assets/projects/crm/03-e12842986a6d-960.webp",
-        "width": 1920,
-        "height": 2486,
-        "srcset": "assets/projects/crm/03-e12842986a6d-960.webp 960w, assets/projects/crm/03-e12842986a6d.webp 1920w",
-        "alt": "CRM Software — иллюстрация 3"
       }
     ]
   }
@@ -1413,6 +1493,119 @@
     ]
   },
   {
+    "id": "crm",
+    "title": "CRM Software",
+    "subtitle": "Making complexity clear",
+    "type": "Web application · UI/UX design",
+    "category": "Интерфейсы",
+    "intro": "A CRM interface project focused on working with data and organising a clear digital workspace.",
+    "tags": [
+      "UI design",
+      "CRM",
+      "Web application"
+    ],
+    "bg": "#e5eaf5",
+    "role": "Interface design",
+    "task": "Design a visual interface with a clear information structure.",
+    "solution": "The gallery presents the main screens, composition, typography and interface components. The full project is available on Behance.",
+    "url": "https://www.behance.net/gallery/157902309/Rezileads-CRM-software",
+    "linkLabel": "Full case on Behance",
+    "cover": "assets/projects/crm/card-86fb2adfbe9d-480.webp",
+    "coverSrcset": "assets/projects/crm/card-86fb2adfbe9d-480.webp 480w, assets/projects/crm/card-86fb2adfbe9d-960.webp 960w, assets/projects/crm/card-86fb2adfbe9d.webp 1920w",
+    "coverWidth": 1920,
+    "coverHeight": 1236,
+    "caseCover": {
+      "src": "assets/projects/crm/cover-14ce85e504b7.webp",
+      "preview": "assets/projects/crm/cover-14ce85e504b7-960.webp",
+      "thumb": "assets/projects/crm/cover-14ce85e504b7-960.webp",
+      "width": 1920,
+      "height": 1485,
+      "srcset": "assets/projects/crm/cover-14ce85e504b7-960.webp 960w, assets/projects/crm/cover-14ce85e504b7.webp 1920w"
+    },
+    "content": [
+      {
+        "type": "image",
+        "src": "assets/projects/crm/01-9fa3801c28bb.webp",
+        "preview": "assets/projects/crm/01-9fa3801c28bb-960.webp",
+        "thumb": "assets/projects/crm/01-9fa3801c28bb-960.webp",
+        "width": 1920,
+        "height": 2764,
+        "srcset": "assets/projects/crm/01-9fa3801c28bb-960.webp 960w, assets/projects/crm/01-9fa3801c28bb.webp 1920w",
+        "alt": "CRM Software — case image 1"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/02-33895bc11404.webp",
+        "preview": "assets/projects/crm/02-33895bc11404-960.webp",
+        "thumb": "assets/projects/crm/02-33895bc11404-960.webp",
+        "width": 1920,
+        "height": 4984,
+        "srcset": "assets/projects/crm/02-33895bc11404-960.webp 960w, assets/projects/crm/02-33895bc11404.webp 1920w",
+        "alt": "CRM Software — case image 2"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/03-dcb7208c64f9.webp",
+        "preview": "assets/projects/crm/03-dcb7208c64f9-960.webp",
+        "thumb": "assets/projects/crm/03-dcb7208c64f9-960.webp",
+        "width": 1920,
+        "height": 3363,
+        "srcset": "assets/projects/crm/03-dcb7208c64f9-960.webp 960w, assets/projects/crm/03-dcb7208c64f9.webp 1920w",
+        "alt": "CRM Software — case image 3"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/04-72de4add212a.webp",
+        "preview": "assets/projects/crm/04-72de4add212a-960.webp",
+        "thumb": "assets/projects/crm/04-72de4add212a-960.webp",
+        "width": 1920,
+        "height": 2733,
+        "srcset": "assets/projects/crm/04-72de4add212a-960.webp 960w, assets/projects/crm/04-72de4add212a.webp 1920w",
+        "alt": "CRM Software — case image 4"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/05-2ae7c91eeac6.webp",
+        "preview": "assets/projects/crm/05-2ae7c91eeac6-960.webp",
+        "thumb": "assets/projects/crm/05-2ae7c91eeac6-960.webp",
+        "width": 1920,
+        "height": 2826,
+        "srcset": "assets/projects/crm/05-2ae7c91eeac6-960.webp 960w, assets/projects/crm/05-2ae7c91eeac6.webp 1920w",
+        "alt": "CRM Software — case image 5"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/06-c9a3b51c4846.webp",
+        "preview": "assets/projects/crm/06-c9a3b51c4846-960.webp",
+        "thumb": "assets/projects/crm/06-c9a3b51c4846-960.webp",
+        "width": 1920,
+        "height": 1546,
+        "srcset": "assets/projects/crm/06-c9a3b51c4846-960.webp 960w, assets/projects/crm/06-c9a3b51c4846.webp 1920w",
+        "alt": "CRM Software — case image 6"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/07-e08b95244931.webp",
+        "preview": "assets/projects/crm/07-e08b95244931-960.webp",
+        "thumb": "assets/projects/crm/07-e08b95244931-960.webp",
+        "width": 1920,
+        "height": 2687,
+        "srcset": "assets/projects/crm/07-e08b95244931-960.webp 960w, assets/projects/crm/07-e08b95244931.webp 1920w",
+        "alt": "CRM Software — case image 7"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/crm/08-c4e7ba12b6f6.webp",
+        "preview": "assets/projects/crm/08-c4e7ba12b6f6-960.webp",
+        "thumb": "assets/projects/crm/08-c4e7ba12b6f6-960.webp",
+        "width": 1920,
+        "height": 2494,
+        "srcset": "assets/projects/crm/08-c4e7ba12b6f6-960.webp 960w, assets/projects/crm/08-c4e7ba12b6f6.webp 1920w",
+        "alt": "CRM Software — case image 8"
+      }
+    ]
+  },
+  {
     "id": "krugosvetka",
     "title": "Krugosvetka · Website redesign",
     "subtitle": "A multi-page travel website: from finding a tour to making an enquiry",
@@ -1638,13 +1831,43 @@
     "content": [
       {
         "type": "image",
-        "src": "assets/projects/soft-blue/01-2e3090252fcf.webp",
-        "preview": "assets/projects/soft-blue/01-2e3090252fcf-960.webp",
-        "thumb": "assets/projects/soft-blue/01-2e3090252fcf-960.webp",
+        "src": "assets/projects/soft-blue/01-e812604e9994.webp",
+        "preview": "assets/projects/soft-blue/01-e812604e9994-960.webp",
+        "thumb": "assets/projects/soft-blue/01-e812604e9994-960.webp",
         "width": 1920,
-        "height": 7461,
-        "srcset": "assets/projects/soft-blue/01-2e3090252fcf-960.webp 960w, assets/projects/soft-blue/01-2e3090252fcf.webp 1920w",
+        "height": 911,
+        "srcset": "assets/projects/soft-blue/01-e812604e9994-960.webp 960w, assets/projects/soft-blue/01-e812604e9994.webp 1920w",
         "alt": "SOFT BLUE · AI Fashion Visuals — case image 1"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/soft-blue/02-d6b176b9ec55.webp",
+        "preview": "assets/projects/soft-blue/02-d6b176b9ec55-960.webp",
+        "thumb": "assets/projects/soft-blue/02-d6b176b9ec55-960.webp",
+        "width": 1920,
+        "height": 951,
+        "srcset": "assets/projects/soft-blue/02-d6b176b9ec55-960.webp 960w, assets/projects/soft-blue/02-d6b176b9ec55.webp 1920w",
+        "alt": "SOFT BLUE · AI Fashion Visuals — case image 2"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/soft-blue/03-bf2333c7491c.webp",
+        "preview": "assets/projects/soft-blue/03-bf2333c7491c-960.webp",
+        "thumb": "assets/projects/soft-blue/03-bf2333c7491c-960.webp",
+        "width": 1920,
+        "height": 3110,
+        "srcset": "assets/projects/soft-blue/03-bf2333c7491c-960.webp 960w, assets/projects/soft-blue/03-bf2333c7491c.webp 1920w",
+        "alt": "SOFT BLUE · AI Fashion Visuals — case image 3"
+      },
+      {
+        "type": "image",
+        "src": "assets/projects/soft-blue/04-97cdaaca00b4.webp",
+        "preview": "assets/projects/soft-blue/04-97cdaaca00b4-960.webp",
+        "thumb": "assets/projects/soft-blue/04-97cdaaca00b4-960.webp",
+        "width": 1920,
+        "height": 2489,
+        "srcset": "assets/projects/soft-blue/04-97cdaaca00b4-960.webp 960w, assets/projects/soft-blue/04-97cdaaca00b4.webp 1920w",
+        "alt": "SOFT BLUE · AI Fashion Visuals — case image 4"
       }
     ]
   },
@@ -1733,69 +1956,6 @@
         "height": 1200,
         "srcset": "assets/projects/templates/04-fc97dfae79ec-960.webp 960w, assets/projects/templates/04-fc97dfae79ec.webp 1920w",
         "alt": "Template Library for Designers — case image 7"
-      }
-    ]
-  },
-  {
-    "id": "crm",
-    "title": "CRM Software",
-    "subtitle": "Making complexity clear",
-    "type": "Web application · UI/UX design",
-    "category": "Интерфейсы",
-    "intro": "A CRM interface project focused on working with data and organising a clear digital workspace.",
-    "tags": [
-      "UI design",
-      "CRM",
-      "Web application"
-    ],
-    "bg": "#e5eaf5",
-    "role": "Interface design",
-    "task": "Design a visual interface with a clear information structure.",
-    "solution": "The gallery presents the main screens, composition, typography and interface components. The full project is available on Behance.",
-    "url": "https://www.behance.net/gallery/157902309/Rezileads-CRM-software",
-    "linkLabel": "Full case on Behance",
-    "cover": "assets/projects/crm/card-86fb2adfbe9d-480.webp",
-    "coverSrcset": "assets/projects/crm/card-86fb2adfbe9d-480.webp 480w, assets/projects/crm/card-86fb2adfbe9d-960.webp 960w, assets/projects/crm/card-86fb2adfbe9d.webp 1920w",
-    "coverWidth": 1920,
-    "coverHeight": 1236,
-    "caseCover": {
-      "src": "assets/projects/crm/cover-1a723fb06b38.webp",
-      "preview": "assets/projects/crm/cover-1a723fb06b38-960.webp",
-      "thumb": "assets/projects/crm/cover-1a723fb06b38-960.webp",
-      "width": 1920,
-      "height": 1298,
-      "srcset": "assets/projects/crm/cover-1a723fb06b38-960.webp 960w, assets/projects/crm/cover-1a723fb06b38.webp 1920w"
-    },
-    "content": [
-      {
-        "type": "image",
-        "src": "assets/projects/crm/01-547f4d62c7e3.webp",
-        "preview": "assets/projects/crm/01-547f4d62c7e3-960.webp",
-        "thumb": "assets/projects/crm/01-547f4d62c7e3-960.webp",
-        "width": 1920,
-        "height": 4984,
-        "srcset": "assets/projects/crm/01-547f4d62c7e3-960.webp 960w, assets/projects/crm/01-547f4d62c7e3.webp 1920w",
-        "alt": "CRM Software — case image 1"
-      },
-      {
-        "type": "image",
-        "src": "assets/projects/crm/02-35c70a754ef6.webp",
-        "preview": "assets/projects/crm/02-35c70a754ef6-960.webp",
-        "thumb": "assets/projects/crm/02-35c70a754ef6-960.webp",
-        "width": 1920,
-        "height": 3163,
-        "srcset": "assets/projects/crm/02-35c70a754ef6-960.webp 960w, assets/projects/crm/02-35c70a754ef6.webp 1920w",
-        "alt": "CRM Software — case image 2"
-      },
-      {
-        "type": "image",
-        "src": "assets/projects/crm/03-e12842986a6d.webp",
-        "preview": "assets/projects/crm/03-e12842986a6d-960.webp",
-        "thumb": "assets/projects/crm/03-e12842986a6d-960.webp",
-        "width": 1920,
-        "height": 2486,
-        "srcset": "assets/projects/crm/03-e12842986a6d-960.webp 960w, assets/projects/crm/03-e12842986a6d.webp 1920w",
-        "alt": "CRM Software — case image 3"
       }
     ]
   }
