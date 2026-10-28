@@ -1,6 +1,4 @@
-/* Figma Desktop Bridge sync, 2026-10-29.
-   Project order: frame 11:53694. CRM and SOFT BLUE image blocks refreshed.
-   Lossless WebP masters verified against 2× PNG exports. */
+/* Figma Desktop Bridge sync, 2026-10-29. CRM catalog cover: 11:53692. */
 (() => {
  const ru=[
   {
@@ -531,8 +529,8 @@
     "solution": "Основные экраны собраны в галерее: композиция, типографика и компоненты интерфейса. Полный проект — на Behance.",
     "url": "https://www.behance.net/gallery/157902309/Rezileads-CRM-software",
     "linkLabel": "Полный кейс на Behance",
-    "cover": "assets/projects/crm/card-86fb2adfbe9d-480.webp",
-    "coverSrcset": "assets/projects/crm/card-86fb2adfbe9d-480.webp 480w, assets/projects/crm/card-86fb2adfbe9d-960.webp 960w, assets/projects/crm/card-86fb2adfbe9d.webp 1920w",
+    "cover": "assets/projects/crm/card-0fed5ac91251-480.webp",
+    "coverSrcset": "assets/projects/crm/card-0fed5ac91251-480.webp 480w, assets/projects/crm/card-0fed5ac91251-960.webp 960w, assets/projects/crm/card-0fed5ac91251.webp 1920w",
     "coverWidth": 1920,
     "coverHeight": 1236,
     "caseCover": {
@@ -1510,8 +1508,8 @@
     "solution": "The gallery presents the main screens, composition, typography and interface components. The full project is available on Behance.",
     "url": "https://www.behance.net/gallery/157902309/Rezileads-CRM-software",
     "linkLabel": "Full case on Behance",
-    "cover": "assets/projects/crm/card-86fb2adfbe9d-480.webp",
-    "coverSrcset": "assets/projects/crm/card-86fb2adfbe9d-480.webp 480w, assets/projects/crm/card-86fb2adfbe9d-960.webp 960w, assets/projects/crm/card-86fb2adfbe9d.webp 1920w",
+    "cover": "assets/projects/crm/card-0fed5ac91251-480.webp",
+    "coverSrcset": "assets/projects/crm/card-0fed5ac91251-480.webp 480w, assets/projects/crm/card-0fed5ac91251-960.webp 960w, assets/projects/crm/card-0fed5ac91251.webp 1920w",
     "coverWidth": 1920,
     "coverHeight": 1236,
     "caseCover": {

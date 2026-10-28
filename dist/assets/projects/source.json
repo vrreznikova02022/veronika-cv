@@ -1750,24 +1750,24 @@
       "nodeId": "11:53692",
       "nodeType": "FRAME",
       "scale": 2,
-      "src": "assets/projects/crm/card-86fb2adfbe9d.webp",
-      "preview": "assets/projects/crm/card-86fb2adfbe9d-960.webp",
-      "thumb": "assets/projects/crm/card-86fb2adfbe9d-480.webp",
+      "src": "assets/projects/crm/card-0fed5ac91251.webp",
+      "preview": "assets/projects/crm/card-0fed5ac91251-960.webp",
+      "thumb": "assets/projects/crm/card-0fed5ac91251-480.webp",
       "width": 1920,
       "height": 1236,
-      "bytes": 472272,
-      "originalBytes": 826965,
+      "bytes": 1462388,
+      "originalBytes": 2335314,
       "pixelIdentical": true,
       "variants": [
         {
           "width": 480,
-          "src": "assets/projects/crm/card-86fb2adfbe9d-480.webp",
-          "bytes": 79032
+          "src": "assets/projects/crm/card-0fed5ac91251-480.webp",
+          "bytes": 113594
         },
         {
           "width": 960,
-          "src": "assets/projects/crm/card-86fb2adfbe9d-960.webp",
-          "bytes": 205148
+          "src": "assets/projects/crm/card-0fed5ac91251-960.webp",
+          "bytes": 440618
         }
       ]
     },
